@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Tutki",
+    "forecasts": "Ennusteet",
+    "timeline": "Aikajana",
+    "orgs": "Org.",
+    "search": "Haku"
+  },
+  "common": {
+    "tryAgain": "Yritä uudelleen",
+    "language": "Kieli"
+  },
+  "explore": {
+    "title": "Superäly",
+    "subtitle": "Keskeiset ajatukset tekoälystä, joka voisi ylittää ihmisen kyvyt moninkertaisesti.",
+    "empty": "Käsitteitä ei löytynyt."
+  },
+  "categories": {
+    "all": "Kaikki",
+    "definition": "Määritelmä",
+    "theory": "Teoria",
+    "safety": "Turvallisuus",
+    "governance": "Hallinta",
+    "capability": "Kyvykkyys"
+  },
+  "forecasts": {
+    "title": "Milloin se voisi tulla?",
+    "subtitle": "Ennusteita kyselyistä, ennustajilta ja laboratorioiden johtajilta. Määritelmät vaihtelevat, joten vertaa saman tavoitteen sisällä.",
+    "empty": "Ennusteita ei löytynyt.",
+    "updatedLater": "Päivitetty myöhemmin",
+    "made": "Tehty {{year}}",
+    "median": "~50 % vuoteen {{year}} mennessä",
+    "legend": "Katkoviiva = tänään. Piste = vuosi, jolloin todennäköisyys on ~50 %.",
+    "medianLabel": "Vuosi, jolloin todennäköisyys on ~50 %",
+    "noYear": "Yksittäistä vuotta ei annettu",
+    "byYear": "Todennäköisyys vuosittain",
+    "updatedNotice": "Tätä ennustetta päivitettiin myöhemmin. Katso uudempi",
+    "source": "Lähde",
+    "openSource": "Avaa lähde"
+  },
+  "targets": {
+    "tai": "Mullistava tekoäly",
+    "asi": "Superäly",
+    "singularity": "Singulariteetti",
+    "faol": "Täysi automaatio"
+  },
+  "types": {
+    "individual": "Henkilö",
+    "survey": "Kysely",
+    "community": "Yhteisö",
+    "model": "Malli",
+    "scenario": "Skenaario"
+  },
+  "timeline": {
+    "title": "Turingista tähän päivään",
+    "subtitle": "Ajatuksia, julkaisuja ja tapahtumia, jotka ovat muovanneet käsityksiä superälystä. Napauta laajentaaksesi.",
+    "empty": "Ei vielä virstanpylväitä."
+  },
+  "kinds": {
+    "idea": "Ajatus",
+    "publication": "Julkaisu",
+    "organization": "Organisaatio",
+    "statement": "Julkilausuma",
+    "policy": "Politiikka",
+    "technical": "Tekninen"
+  },
+  "orgs": {
+    "title": "Kuka sen parissa työskentelee",
+    "subtitle": "Johtavat tekoälylaboratoriot, turvallisuustutkijat ja valtion instituutit.",
+    "empty": "Organisaatioita ei löytynyt.",
+    "visitWebsite": "Avaa verkkosivusto",
+    "since": "Vuodesta {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laboratorio",
+    "research": "Tutkimus",
+    "nonprofit": "Voittoa tavoittelematon",
+    "government": "Julkinen",
+    "other": "Muu"
+  },
+  "search": {
+    "title": "Etsi mitä tahansa",
+    "hint": "Hae käsitteitä, ennusteita, organisaatioita ja virstanpylväitä.",
+    "noResults": "Ei tuloksia haulle ”{{q}}”."
+  },
+  "sections": {
+    "concepts": "Käsitteet",
+    "organizations": "Organisaatiot",
+    "milestones": "Virstanpylväät"
+  },
+  "concept": {
+    "related": "Liittyvät",
+    "tags": "Tunnisteet"
+  },
+  "titles": {
+    "concept": "Käsite",
+    "forecast": "Ennuste"
+  },
+  "nav": {
+    "privacy": "Tietosuoja",
+    "support": "Tuki",
+    "terms": "Ehdot"
+  },
+  "home": {
+    "title": "Milloin tekoäly voisi ohittaa meidät?",
+    "lead": "Opas superälyyn: keskeiset käsitteet, asiantuntijoiden ennusteet, aikajana vuodesta 1950 ja sen parissa työskentelevät organisaatiot.",
+    "cta": "Aloita tutkiminen",
+    "forecastsTitle": "Mitä ennusteet sanovat",
+    "forecastsNote": "Nykyisten vuosiluvun antavien ennusteiden mediaani. Määritelmät vaihtelevat lähteittäin.",
+    "featuresTitle": "Kaikki yhdessä paikassa",
+    "f1": "Keskustelun keskeiset ajatukset selkeästi selitettyinä.",
+    "f2": "Asiantuntijoiden ennusteet sen saapumisesta, jokainen lähde linkitettynä.",
+    "f3": "Julkaisut, kirjat ja tapahtumat Turingista tähän päivään.",
+    "f4": "Johtavat tekoälylaboratoriot, turvallisuustutkijat ja valtion instituutit.",
+    "comingSoon": "Tulossa pian:",
+    "downloadOn": "Lataa:"
+  }
+}

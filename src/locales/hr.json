@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Istraži",
+    "forecasts": "Prognoze",
+    "timeline": "Vremenska crta",
+    "orgs": "Org.",
+    "search": "Traži"
+  },
+  "common": {
+    "tryAgain": "Pokušaj ponovno",
+    "language": "Jezik"
+  },
+  "explore": {
+    "title": "Superinteligencija",
+    "subtitle": "Ključne ideje o UI-ju koji bi mogao daleko nadmašiti ljudske sposobnosti.",
+    "empty": "Nema pronađenih pojmova."
+  },
+  "categories": {
+    "all": "Sve",
+    "definition": "Definicija",
+    "theory": "Teorija",
+    "safety": "Sigurnost",
+    "governance": "Upravljanje",
+    "capability": "Sposobnost"
+  },
+  "forecasts": {
+    "title": "Kada bi mogla stići?",
+    "subtitle": "Prognoze iz anketa, prognostičara i čelnika laboratorija. Definicije se razlikuju pa uspoređuj unutar istog cilja.",
+    "empty": "Nema pronađenih prognoza.",
+    "updatedLater": "Kasnije ažurirano",
+    "made": "Iz {{year}}.",
+    "median": "~50 % do {{year}}.",
+    "legend": "Isprekidana linija = danas. Točka = godina s ~50 % vjerojatnosti.",
+    "medianLabel": "Godina s ~50 % vjerojatnosti",
+    "noYear": "Nije navedena određena godina",
+    "byYear": "Vjerojatnost po godinama",
+    "updatedNotice": "Ova prognoza je kasnije ažurirana. Pogledaj noviju",
+    "source": "Izvor",
+    "openSource": "Otvori izvor"
+  },
+  "targets": {
+    "tai": "Transformativni UI",
+    "asi": "Superinteligencija",
+    "singularity": "Singularnost",
+    "faol": "Potpuna automatizacija"
+  },
+  "types": {
+    "individual": "Osoba",
+    "survey": "Anketa",
+    "community": "Zajednica",
+    "model": "Model",
+    "scenario": "Scenarij"
+  },
+  "timeline": {
+    "title": "Od Turinga do danas",
+    "subtitle": "Ideje, radovi i događaji koji su oblikovali razmišljanje o superinteligenciji. Dodirni za proširenje.",
+    "empty": "Još nema prekretnica."
+  },
+  "kinds": {
+    "idea": "Ideja",
+    "publication": "Publikacija",
+    "organization": "Organizacija",
+    "statement": "Izjava",
+    "policy": "Politika",
+    "technical": "Tehničko"
+  },
+  "orgs": {
+    "title": "Tko radi na tome",
+    "subtitle": "Vodeći UI laboratoriji, istraživači sigurnosti i državni instituti.",
+    "empty": "Nema pronađenih organizacija.",
+    "visitWebsite": "Posjeti web-stranicu",
+    "since": "Od {{year}}."
+  },
+  "orgTypes": {
+    "lab": "Laboratorij",
+    "research": "Istraživanje",
+    "nonprofit": "Neprofitna",
+    "government": "Državna",
+    "other": "Ostalo"
+  },
+  "search": {
+    "title": "Pronađi bilo što",
+    "hint": "Pretraži pojmove, prognoze, organizacije i prekretnice.",
+    "noResults": "Nema rezultata za „{{q}}”."
+  },
+  "sections": {
+    "concepts": "Pojmovi",
+    "organizations": "Organizacije",
+    "milestones": "Prekretnice"
+  },
+  "concept": {
+    "related": "Povezano",
+    "tags": "Oznake"
+  },
+  "titles": {
+    "concept": "Pojam",
+    "forecast": "Prognoza"
+  },
+  "nav": {
+    "privacy": "Privatnost",
+    "support": "Podrška",
+    "terms": "Uvjeti"
+  },
+  "home": {
+    "title": "Kada bi nas UI mogao prestići?",
+    "lead": "Vaš vodič kroz superinteligenciju: ključni pojmovi, prognoze stručnjaka, vremenska crta od 1950. i organizacije koje rade na tome.",
+    "cta": "Počni istraživati",
+    "forecastsTitle": "Što kažu prognoze",
+    "forecastsNote": "Medijan trenutačnih prognoza koje navode godinu. Definicije se razlikuju među izvorima.",
+    "featuresTitle": "Sve na jednom mjestu",
+    "f1": "Ključne ideje rasprave, jasno objašnjene.",
+    "f2": "Prognoze stručnjaka o tome kada bi mogla stići, s poveznicom na svaki izvor.",
+    "f3": "Radovi, knjige i događaji od Turinga do danas.",
+    "f4": "Vodeći UI laboratoriji, istraživači sigurnosti i državni instituti.",
+    "comingSoon": "Uskoro na",
+    "downloadOn": "Preuzmi na"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Explorează",
+    "forecasts": "Prognoze",
+    "timeline": "Cronologie",
+    "orgs": "Org.",
+    "search": "Caută"
+  },
+  "common": {
+    "tryAgain": "Reîncearcă",
+    "language": "Limbă"
+  },
+  "explore": {
+    "title": "Superinteligență",
+    "subtitle": "Ideile-cheie despre o IA care ar putea depăși cu mult capacitatea umană.",
+    "empty": "Nu s-au găsit concepte."
+  },
+  "categories": {
+    "all": "Toate",
+    "definition": "Definiție",
+    "theory": "Teorie",
+    "safety": "Siguranță",
+    "governance": "Guvernanță",
+    "capability": "Capacitate"
+  },
+  "forecasts": {
+    "title": "Când ar putea apărea?",
+    "subtitle": "Prognoze din sondaje, de la prognozatori și lideri de laboratoare. Definițiile diferă, așa că compară în cadrul aceleiași ținte.",
+    "empty": "Nu s-au găsit prognoze.",
+    "updatedLater": "Actualizată ulterior",
+    "made": "Făcută în {{year}}",
+    "median": "~50% până în {{year}}",
+    "legend": "Linie punctată = azi. Punct = anul cu ~50% probabilitate.",
+    "medianLabel": "Anul cu ~50% probabilitate",
+    "noYear": "Nu este indicat un an anume",
+    "byYear": "Probabilitate pe ani",
+    "updatedNotice": "Această prognoză a fost actualizată ulterior. Vezi varianta nouă",
+    "source": "Sursă",
+    "openSource": "Deschide sursa"
+  },
+  "targets": {
+    "tai": "IA transformatoare",
+    "asi": "Superinteligență",
+    "singularity": "Singularitate",
+    "faol": "Automatizare completă"
+  },
+  "types": {
+    "individual": "Persoană",
+    "survey": "Sondaj",
+    "community": "Comunitate",
+    "model": "Model",
+    "scenario": "Scenariu"
+  },
+  "timeline": {
+    "title": "De la Turing până azi",
+    "subtitle": "Idei, lucrări și evenimente care au modelat gândirea despre superinteligență. Atinge pentru detalii.",
+    "empty": "Încă nu există repere."
+  },
+  "kinds": {
+    "idea": "Idee",
+    "publication": "Publicație",
+    "organization": "Organizație",
+    "statement": "Declarație",
+    "policy": "Politică",
+    "technical": "Tehnic"
+  },
+  "orgs": {
+    "title": "Cine lucrează la asta",
+    "subtitle": "Laboratoare IA de vârf, cercetători în siguranță și institute guvernamentale.",
+    "empty": "Nu s-au găsit organizații.",
+    "visitWebsite": "Vizitează site-ul",
+    "since": "Din {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laborator",
+    "research": "Cercetare",
+    "nonprofit": "Nonprofit",
+    "government": "Guvern",
+    "other": "Altele"
+  },
+  "search": {
+    "title": "Găsește orice",
+    "hint": "Caută concepte, prognoze, organizații și repere.",
+    "noResults": "Niciun rezultat pentru „{{q}}”."
+  },
+  "sections": {
+    "concepts": "Concepte",
+    "organizations": "Organizații",
+    "milestones": "Repere"
+  },
+  "concept": {
+    "related": "Similare",
+    "tags": "Etichete"
+  },
+  "titles": {
+    "concept": "Concept",
+    "forecast": "Prognoză"
+  },
+  "nav": {
+    "privacy": "Confidențialitate",
+    "support": "Asistență",
+    "terms": "Termeni"
+  },
+  "home": {
+    "title": "Când ne-ar putea depăși IA?",
+    "lead": "Ghidul tău despre superinteligență: concepte-cheie, prognoze ale experților, o cronologie din 1950 și organizațiile care lucrează la ea.",
+    "cta": "Începe explorarea",
+    "forecastsTitle": "Ce spun prognozele",
+    "forecastsNote": "Mediana prognozelor actuale care indică un an. Definițiile diferă între surse.",
+    "featuresTitle": "Totul într-un singur loc",
+    "f1": "Ideile-cheie ale dezbaterii, explicate simplu.",
+    "f2": "Prognozele experților despre când ar putea apărea, cu fiecare sursă legată.",
+    "f3": "Lucrări, cărți și evenimente de la Turing până azi.",
+    "f4": "Laboratoare IA de vârf, cercetători în siguranță și institute guvernamentale.",
+    "comingSoon": "În curând pe",
+    "downloadOn": "Descarcă din"
+  }
+}

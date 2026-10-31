@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Preskúmať",
+    "forecasts": "Predpovede",
+    "timeline": "Časová os",
+    "orgs": "Org.",
+    "search": "Hľadať"
+  },
+  "common": {
+    "tryAgain": "Skúsiť znova",
+    "language": "Jazyk"
+  },
+  "explore": {
+    "title": "Superinteligencia",
+    "subtitle": "Kľúčové myšlienky o AI, ktorá by mohla ďaleko prekonať ľudské schopnosti.",
+    "empty": "Nenašli sa žiadne pojmy."
+  },
+  "categories": {
+    "all": "Všetko",
+    "definition": "Definícia",
+    "theory": "Teória",
+    "safety": "Bezpečnosť",
+    "governance": "Riadenie",
+    "capability": "Schopnosti"
+  },
+  "forecasts": {
+    "title": "Kedy by mohla prísť?",
+    "subtitle": "Predpovede z prieskumov, od prognostikov a vedúcich laboratórií. Definície sa líšia, preto porovnávajte v rámci jedného cieľa.",
+    "empty": "Nenašli sa žiadne predpovede.",
+    "updatedLater": "Neskôr aktualizované",
+    "made": "Z roku {{year}}",
+    "median": "~50 % do roku {{year}}",
+    "legend": "Prerušovaná čiara = dnes. Bodka = rok s ~50 % pravdepodobnosťou.",
+    "medianLabel": "Rok s ~50 % pravdepodobnosťou",
+    "noYear": "Neuvádza sa konkrétny rok",
+    "byYear": "Pravdepodobnosť podľa roka",
+    "updatedNotice": "Táto predpoveď bola neskôr aktualizovaná. Zobraziť novšiu",
+    "source": "Zdroj",
+    "openSource": "Otvoriť zdroj"
+  },
+  "targets": {
+    "tai": "Transformačná AI",
+    "asi": "Superinteligencia",
+    "singularity": "Singularita",
+    "faol": "Úplná automatizácia"
+  },
+  "types": {
+    "individual": "Osoba",
+    "survey": "Prieskum",
+    "community": "Komunita",
+    "model": "Model",
+    "scenario": "Scenár"
+  },
+  "timeline": {
+    "title": "Od Turinga po dnešok",
+    "subtitle": "Myšlienky, práce a udalosti, ktoré formovali uvažovanie o superinteligencii. Ťuknutím rozbalíte.",
+    "empty": "Zatiaľ žiadne míľniky."
+  },
+  "kinds": {
+    "idea": "Myšlienka",
+    "publication": "Publikácia",
+    "organization": "Organizácia",
+    "statement": "Vyhlásenie",
+    "policy": "Politika",
+    "technical": "Technické"
+  },
+  "orgs": {
+    "title": "Kto na tom pracuje",
+    "subtitle": "Popredné AI laboratóriá, výskumníci bezpečnosti a vládne inštitúty.",
+    "empty": "Nenašli sa žiadne organizácie.",
+    "visitWebsite": "Navštíviť web",
+    "since": "Od roku {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laboratórium",
+    "research": "Výskum",
+    "nonprofit": "Nezisková",
+    "government": "Vládna",
+    "other": "Iné"
+  },
+  "search": {
+    "title": "Nájdite čokoľvek",
+    "hint": "Hľadajte pojmy, predpovede, organizácie a míľniky.",
+    "noResults": "Žiadne výsledky pre „{{q}}“."
+  },
+  "sections": {
+    "concepts": "Pojmy",
+    "organizations": "Organizácie",
+    "milestones": "Míľniky"
+  },
+  "concept": {
+    "related": "Súvisiace",
+    "tags": "Štítky"
+  },
+  "titles": {
+    "concept": "Pojem",
+    "forecast": "Predpoveď"
+  },
+  "nav": {
+    "privacy": "Súkromie",
+    "support": "Podpora",
+    "terms": "Podmienky"
+  },
+  "home": {
+    "title": "Kedy by nás AI mohla predbehnúť?",
+    "lead": "Váš sprievodca superinteligenciou: kľúčové pojmy, predpovede expertov, časová os od roku 1950 a organizácie, ktoré na tom pracujú.",
+    "cta": "Začať objavovať",
+    "forecastsTitle": "Čo hovoria predpovede",
+    "forecastsNote": "Medián aktuálnych predpovedí, ktoré uvádzajú rok. Definície sa medzi zdrojmi líšia.",
+    "featuresTitle": "Všetko na jednom mieste",
+    "f1": "Kľúčové myšlienky debaty zrozumiteľne vysvetlené.",
+    "f2": "Predpovede expertov, kedy by mohla prísť, s odkazmi na všetky zdroje.",
+    "f3": "Práce, knihy a udalosti od Turinga po dnešok.",
+    "f4": "Popredné AI laboratóriá, výskumníci bezpečnosti a vládne inštitúty.",
+    "comingSoon": "Čoskoro v",
+    "downloadOn": "Stiahnuť z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Khám phá",
+    "forecasts": "Dự báo",
+    "timeline": "Dòng thời gian",
+    "orgs": "Tổ chức",
+    "search": "Tìm kiếm"
+  },
+  "common": {
+    "tryAgain": "Thử lại",
+    "language": "Ngôn ngữ"
+  },
+  "explore": {
+    "title": "Siêu trí tuệ",
+    "subtitle": "Những ý tưởng cốt lõi về AI có thể vượt xa năng lực con người.",
+    "empty": "Không tìm thấy khái niệm."
+  },
+  "categories": {
+    "all": "Tất cả",
+    "definition": "Định nghĩa",
+    "theory": "Lý thuyết",
+    "safety": "An toàn",
+    "governance": "Quản trị",
+    "capability": "Năng lực"
+  },
+  "forecasts": {
+    "title": "Khi nào nó có thể xuất hiện?",
+    "subtitle": "Dự báo từ khảo sát, nhà dự báo và lãnh đạo phòng thí nghiệm. Định nghĩa khác nhau, nên hãy so sánh trong cùng một mục tiêu.",
+    "empty": "Không tìm thấy dự báo.",
+    "updatedLater": "Đã cập nhật sau",
+    "made": "Đưa ra năm {{year}}",
+    "median": "~50% trước năm {{year}}",
+    "legend": "Đường nét đứt = hôm nay. Chấm = năm có xác suất ~50%.",
+    "medianLabel": "Năm có xác suất ~50%",
+    "noYear": "Không nêu năm cụ thể",
+    "byYear": "Xác suất theo năm",
+    "updatedNotice": "Dự báo này đã được cập nhật sau. Xem bản mới hơn",
+    "source": "Nguồn",
+    "openSource": "Mở nguồn"
+  },
+  "targets": {
+    "tai": "AI mang tính chuyển đổi",
+    "asi": "Siêu trí tuệ",
+    "singularity": "Điểm kỳ dị",
+    "faol": "Tự động hóa hoàn toàn"
+  },
+  "types": {
+    "individual": "Cá nhân",
+    "survey": "Khảo sát",
+    "community": "Cộng đồng",
+    "model": "Mô hình",
+    "scenario": "Kịch bản"
+  },
+  "timeline": {
+    "title": "Từ Turing đến nay",
+    "subtitle": "Những ý tưởng, công trình và sự kiện đã định hình suy nghĩ về siêu trí tuệ. Chạm để mở rộng.",
+    "empty": "Chưa có cột mốc."
+  },
+  "kinds": {
+    "idea": "Ý tưởng",
+    "publication": "Ấn phẩm",
+    "organization": "Tổ chức",
+    "statement": "Tuyên bố",
+    "policy": "Chính sách",
+    "technical": "Kỹ thuật"
+  },
+  "orgs": {
+    "title": "Ai đang nghiên cứu",
+    "subtitle": "Các phòng thí nghiệm AI hàng đầu, nhà nghiên cứu an toàn và viện nhà nước.",
+    "empty": "Không tìm thấy tổ chức.",
+    "visitWebsite": "Truy cập trang web",
+    "since": "Từ năm {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Phòng thí nghiệm",
+    "research": "Nghiên cứu",
+    "nonprofit": "Phi lợi nhuận",
+    "government": "Nhà nước",
+    "other": "Khác"
+  },
+  "search": {
+    "title": "Tìm mọi thứ",
+    "hint": "Tìm khái niệm, dự báo, tổ chức và cột mốc.",
+    "noResults": "Không có kết quả cho “{{q}}”."
+  },
+  "sections": {
+    "concepts": "Khái niệm",
+    "organizations": "Tổ chức",
+    "milestones": "Cột mốc"
+  },
+  "concept": {
+    "related": "Liên quan",
+    "tags": "Thẻ"
+  },
+  "titles": {
+    "concept": "Khái niệm",
+    "forecast": "Dự báo"
+  },
+  "nav": {
+    "privacy": "Quyền riêng tư",
+    "support": "Hỗ trợ",
+    "terms": "Điều khoản"
+  },
+  "home": {
+    "title": "Khi nào AI có thể vượt qua chúng ta?",
+    "lead": "Hướng dẫn về siêu trí tuệ: khái niệm chính, dự báo của chuyên gia, dòng thời gian từ 1950 và các tổ chức đang nghiên cứu.",
+    "cta": "Bắt đầu khám phá",
+    "forecastsTitle": "Các dự báo nói gì",
+    "forecastsNote": "Trung vị của các dự báo hiện tại có nêu năm. Định nghĩa khác nhau giữa các nguồn.",
+    "featuresTitle": "Tất cả ở một nơi",
+    "f1": "Những ý tưởng chính của cuộc tranh luận, giải thích dễ hiểu.",
+    "f2": "Dự báo của chuyên gia về thời điểm nó xuất hiện, kèm liên kết mọi nguồn.",
+    "f3": "Công trình, sách và sự kiện từ Turing đến nay.",
+    "f4": "Các phòng thí nghiệm AI hàng đầu, nhà nghiên cứu an toàn và viện nhà nước.",
+    "comingSoon": "Sắp có trên",
+    "downloadOn": "Tải về trên"
+  }
+}

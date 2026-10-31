@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Ontdekken",
+    "forecasts": "Voorspellingen",
+    "timeline": "Tijdlijn",
+    "orgs": "Org.",
+    "search": "Zoeken"
+  },
+  "common": {
+    "tryAgain": "Opnieuw proberen",
+    "language": "Taal"
+  },
+  "explore": {
+    "title": "Superintelligentie",
+    "subtitle": "De kernideeën achter AI die het menselijk vermogen ver zou kunnen overtreffen.",
+    "empty": "Geen begrippen gevonden."
+  },
+  "categories": {
+    "all": "Alle",
+    "definition": "Definitie",
+    "theory": "Theorie",
+    "safety": "Veiligheid",
+    "governance": "Bestuur",
+    "capability": "Vermogen"
+  },
+  "forecasts": {
+    "title": "Wanneer kan het er zijn?",
+    "subtitle": "Voorspellingen uit enquêtes, van voorspellers en lableiders. Definities verschillen, dus vergelijk binnen hetzelfde doel.",
+    "empty": "Geen voorspellingen gevonden.",
+    "updatedLater": "Later bijgewerkt",
+    "made": "Gemaakt in {{year}}",
+    "median": "~50% vóór {{year}}",
+    "legend": "Stippellijn = vandaag. Stip = jaar met ~50% kans.",
+    "medianLabel": "Jaar met ~50% kans",
+    "noYear": "Geen specifiek jaar gegeven",
+    "byYear": "Kans per jaar",
+    "updatedNotice": "Deze voorspelling is later bijgewerkt. Bekijk de nieuwere",
+    "source": "Bron",
+    "openSource": "Bron openen"
+  },
+  "targets": {
+    "tai": "Transformatieve AI",
+    "asi": "Superintelligentie",
+    "singularity": "Singulariteit",
+    "faol": "Volledige automatisering"
+  },
+  "types": {
+    "individual": "Persoon",
+    "survey": "Enquête",
+    "community": "Community",
+    "model": "Model",
+    "scenario": "Scenario"
+  },
+  "timeline": {
+    "title": "Van Turing tot nu",
+    "subtitle": "Ideeën, publicaties en gebeurtenissen die het denken over superintelligentie hebben gevormd. Tik om uit te klappen.",
+    "empty": "Nog geen mijlpalen."
+  },
+  "kinds": {
+    "idea": "Idee",
+    "publication": "Publicatie",
+    "organization": "Organisatie",
+    "statement": "Verklaring",
+    "policy": "Beleid",
+    "technical": "Technisch"
+  },
+  "orgs": {
+    "title": "Wie werkt eraan",
+    "subtitle": "Toonaangevende AI-labs, veiligheidsonderzoekers en overheidsinstituten.",
+    "empty": "Geen organisaties gevonden.",
+    "visitWebsite": "Website bezoeken",
+    "since": "Sinds {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Lab",
+    "research": "Onderzoek",
+    "nonprofit": "Non-profit",
+    "government": "Overheid",
+    "other": "Overig"
+  },
+  "search": {
+    "title": "Vind alles",
+    "hint": "Zoek in begrippen, voorspellingen, organisaties en mijlpalen.",
+    "noResults": "Geen resultaten voor ‘{{q}}’."
+  },
+  "sections": {
+    "concepts": "Begrippen",
+    "organizations": "Organisaties",
+    "milestones": "Mijlpalen"
+  },
+  "concept": {
+    "related": "Gerelateerd",
+    "tags": "Tags"
+  },
+  "titles": {
+    "concept": "Begrip",
+    "forecast": "Voorspelling"
+  },
+  "nav": {
+    "privacy": "Privacy",
+    "support": "Support",
+    "terms": "Voorwaarden"
+  },
+  "home": {
+    "title": "Wanneer kan AI ons inhalen?",
+    "lead": "Jouw gids voor superintelligentie: kernbegrippen, voorspellingen van experts, een tijdlijn vanaf 1950 en de organisaties die eraan werken.",
+    "cta": "Begin met ontdekken",
+    "forecastsTitle": "Wat de voorspellingen zeggen",
+    "forecastsNote": "Mediaan van huidige voorspellingen met een jaartal. Definities verschillen per bron.",
+    "featuresTitle": "Alles op één plek",
+    "f1": "De kernideeën van het debat, helder uitgelegd.",
+    "f2": "Voorspellingen van experts over wanneer het kan komen, met elke bron gelinkt.",
+    "f3": "Publicaties, boeken en gebeurtenissen van Turing tot nu.",
+    "f4": "Toonaangevende AI-labs, veiligheidsonderzoekers en overheidsinstituten.",
+    "comingSoon": "Binnenkort in",
+    "downloadOn": "Download in de"
+  }
+}

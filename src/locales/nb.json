@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Utforsk",
+    "forecasts": "Prognoser",
+    "timeline": "Tidslinje",
+    "orgs": "Org.",
+    "search": "Søk"
+  },
+  "common": {
+    "tryAgain": "Prøv igjen",
+    "language": "Språk"
+  },
+  "explore": {
+    "title": "Superintelligens",
+    "subtitle": "De viktigste ideene bak KI som kan langt overgå menneskelig evne.",
+    "empty": "Fant ingen begreper."
+  },
+  "categories": {
+    "all": "Alle",
+    "definition": "Definisjon",
+    "theory": "Teori",
+    "safety": "Sikkerhet",
+    "governance": "Styring",
+    "capability": "Evne"
+  },
+  "forecasts": {
+    "title": "Når kan den komme?",
+    "subtitle": "Prognoser fra spørreundersøkelser, prognosemakere og laboratorieledere. Definisjonene varierer, så sammenlign innenfor samme mål.",
+    "empty": "Fant ingen prognoser.",
+    "updatedLater": "Oppdatert senere",
+    "made": "Laget {{year}}",
+    "median": "~50 % innen {{year}}",
+    "legend": "Stiplet linje = i dag. Prikk = året med ~50 % sannsynlighet.",
+    "medianLabel": "År med ~50 % sannsynlighet",
+    "noYear": "Ikke noe enkelt årstall oppgitt",
+    "byYear": "Sannsynlighet per år",
+    "updatedNotice": "Denne prognosen ble senere oppdatert. Se den nyere",
+    "source": "Kilde",
+    "openSource": "Åpne kilden"
+  },
+  "targets": {
+    "tai": "Transformativ KI",
+    "asi": "Superintelligens",
+    "singularity": "Singularitet",
+    "faol": "Full automatisering"
+  },
+  "types": {
+    "individual": "Person",
+    "survey": "Undersøkelse",
+    "community": "Fellesskap",
+    "model": "Modell",
+    "scenario": "Scenario"
+  },
+  "timeline": {
+    "title": "Fra Turing til i dag",
+    "subtitle": "Ideer, artikler og hendelser som har formet tenkningen om superintelligens. Trykk for å utvide.",
+    "empty": "Ingen milepæler ennå."
+  },
+  "kinds": {
+    "idea": "Idé",
+    "publication": "Publikasjon",
+    "organization": "Organisasjon",
+    "statement": "Uttalelse",
+    "policy": "Politikk",
+    "technical": "Teknisk"
+  },
+  "orgs": {
+    "title": "Hvem jobber med det",
+    "subtitle": "Ledende KI-laboratorier, sikkerhetsforskere og offentlige institutter.",
+    "empty": "Fant ingen organisasjoner.",
+    "visitWebsite": "Besøk nettsiden",
+    "since": "Siden {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laboratorium",
+    "research": "Forskning",
+    "nonprofit": "Ideell",
+    "government": "Offentlig",
+    "other": "Annet"
+  },
+  "search": {
+    "title": "Finn hva som helst",
+    "hint": "Søk i begreper, prognoser, organisasjoner og milepæler.",
+    "noResults": "Ingen treff for «{{q}}»."
+  },
+  "sections": {
+    "concepts": "Begreper",
+    "organizations": "Organisasjoner",
+    "milestones": "Milepæler"
+  },
+  "concept": {
+    "related": "Relatert",
+    "tags": "Stikkord"
+  },
+  "titles": {
+    "concept": "Begrep",
+    "forecast": "Prognose"
+  },
+  "nav": {
+    "privacy": "Personvern",
+    "support": "Støtte",
+    "terms": "Vilkår"
+  },
+  "home": {
+    "title": "Når kan KI gå forbi oss?",
+    "lead": "Din guide til kunstig superintelligens: nøkkelbegreper, ekspertprognoser, en tidslinje fra 1950 og organisasjonene som jobber med det.",
+    "cta": "Begynn å utforske",
+    "forecastsTitle": "Hva prognosene sier",
+    "forecastsNote": "Medianen av gjeldende prognoser som oppgir et årstall. Definisjonene varierer mellom kildene.",
+    "featuresTitle": "Alt på ett sted",
+    "f1": "De viktigste ideene i debatten, forklart på en enkel måte.",
+    "f2": "Ekspertprognoser for når den kan komme, med lenke til alle kilder.",
+    "f3": "Artikler, bøker og hendelser fra Turing til i dag.",
+    "f4": "Ledende KI-laboratorier, sikkerhetsforskere og offentlige institutter.",
+    "comingSoon": "Kommer snart til",
+    "downloadOn": "Last ned på"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Naršyti",
+    "forecasts": "Prognozės",
+    "timeline": "Laiko juosta",
+    "orgs": "Org.",
+    "search": "Paieška"
+  },
+  "common": {
+    "tryAgain": "Bandyti dar kartą",
+    "language": "Kalba"
+  },
+  "explore": {
+    "title": "Superintelektas",
+    "subtitle": "Pagrindinės idėjos apie DI, kuris galėtų gerokai pranokti žmogaus gebėjimus.",
+    "empty": "Sąvokų nerasta."
+  },
+  "categories": {
+    "all": "Visi",
+    "definition": "Apibrėžimas",
+    "theory": "Teorija",
+    "safety": "Saugumas",
+    "governance": "Valdymas",
+    "capability": "Gebėjimai"
+  },
+  "forecasts": {
+    "title": "Kada jis galėtų atsirasti?",
+    "subtitle": "Prognozės iš apklausų, prognozuotojų ir laboratorijų vadovų. Apibrėžimai skiriasi, todėl lyginkite to paties tikslo ribose.",
+    "empty": "Prognozių nerasta.",
+    "updatedLater": "Vėliau atnaujinta",
+    "made": "Sudaryta {{year}} m.",
+    "median": "~50 % iki {{year}} m.",
+    "legend": "Punktyrinė linija = šiandien. Taškas = metai su ~50 % tikimybe.",
+    "medianLabel": "Metai su ~50 % tikimybe",
+    "noYear": "Konkretūs metai nenurodyti",
+    "byYear": "Tikimybė pagal metus",
+    "updatedNotice": "Ši prognozė vėliau buvo atnaujinta. Žiūrėti naujesnę",
+    "source": "Šaltinis",
+    "openSource": "Atidaryti šaltinį"
+  },
+  "targets": {
+    "tai": "Transformuojantis DI",
+    "asi": "Superintelektas",
+    "singularity": "Singuliarumas",
+    "faol": "Visiška automatizacija"
+  },
+  "types": {
+    "individual": "Asmuo",
+    "survey": "Apklausa",
+    "community": "Bendruomenė",
+    "model": "Modelis",
+    "scenario": "Scenarijus"
+  },
+  "timeline": {
+    "title": "Nuo Tiuringo iki šių dienų",
+    "subtitle": "Idėjos, darbai ir įvykiai, suformavę mąstymą apie superintelektą. Palieskite, kad išskleistumėte.",
+    "empty": "Kol kas nėra etapų."
+  },
+  "kinds": {
+    "idea": "Idėja",
+    "publication": "Publikacija",
+    "organization": "Organizacija",
+    "statement": "Pareiškimas",
+    "policy": "Politika",
+    "technical": "Techninis"
+  },
+  "orgs": {
+    "title": "Kas prie to dirba",
+    "subtitle": "Pirmaujančios DI laboratorijos, saugumo tyrėjai ir valstybiniai institutai.",
+    "empty": "Organizacijų nerasta.",
+    "visitWebsite": "Apsilankyti svetainėje",
+    "since": "Nuo {{year}} m."
+  },
+  "orgTypes": {
+    "lab": "Laboratorija",
+    "research": "Moksliniai tyrimai",
+    "nonprofit": "Ne pelno",
+    "government": "Valstybinė",
+    "other": "Kita"
+  },
+  "search": {
+    "title": "Raskite bet ką",
+    "hint": "Ieškokite sąvokų, prognozių, organizacijų ir etapų.",
+    "noResults": "Nėra rezultatų pagal „{{q}}“."
+  },
+  "sections": {
+    "concepts": "Sąvokos",
+    "organizations": "Organizacijos",
+    "milestones": "Etapai"
+  },
+  "concept": {
+    "related": "Susiję",
+    "tags": "Žymos"
+  },
+  "titles": {
+    "concept": "Sąvoka",
+    "forecast": "Prognozė"
+  },
+  "nav": {
+    "privacy": "Privatumas",
+    "support": "Pagalba",
+    "terms": "Sąlygos"
+  },
+  "home": {
+    "title": "Kada DI galėtų mus aplenkti?",
+    "lead": "Jūsų gidas po superintelektą: pagrindinės sąvokos, ekspertų prognozės, laiko juosta nuo 1950 m. ir prie to dirbančios organizacijos.",
+    "cta": "Pradėti naršyti",
+    "forecastsTitle": "Ką sako prognozės",
+    "forecastsNote": "Dabartinių prognozių, nurodančių metus, mediana. Apibrėžimai šaltiniuose skiriasi.",
+    "featuresTitle": "Viskas vienoje vietoje",
+    "f1": "Pagrindinės diskusijos idėjos, paaiškintos paprastai.",
+    "f2": "Ekspertų prognozės, kada jis galėtų atsirasti, su nuorodomis į šaltinius.",
+    "f3": "Darbai, knygos ir įvykiai nuo Tiuringo iki šių dienų.",
+    "f4": "Pirmaujančios DI laboratorijos, saugumo tyrėjai ir valstybiniai institutai.",
+    "comingSoon": "Netrukus",
+    "downloadOn": "Atsisiųsti iš"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Explorar",
+    "forecasts": "Previsões",
+    "timeline": "Linha do tempo",
+    "orgs": "Org.",
+    "search": "Pesquisar"
+  },
+  "common": {
+    "tryAgain": "Tentar novamente",
+    "language": "Idioma"
+  },
+  "explore": {
+    "title": "Superinteligência",
+    "subtitle": "As ideias-chave por trás de uma IA que poderia superar em muito a capacidade humana.",
+    "empty": "Nenhum conceito encontrado."
+  },
+  "categories": {
+    "all": "Tudo",
+    "definition": "Definição",
+    "theory": "Teoria",
+    "safety": "Segurança",
+    "governance": "Governança",
+    "capability": "Capacidade"
+  },
+  "forecasts": {
+    "title": "Quando poderá chegar?",
+    "subtitle": "Previsões de inquéritos, previsores e líderes de laboratórios. As definições variam, por isso compare dentro do mesmo alvo.",
+    "empty": "Nenhuma previsão encontrada.",
+    "updatedLater": "Atualizada depois",
+    "made": "Feita em {{year}}",
+    "median": "~50% até {{year}}",
+    "legend": "Linha tracejada = hoje. Ponto = ano com ~50% de probabilidade.",
+    "medianLabel": "Ano com ~50% de probabilidade",
+    "noYear": "Nenhum ano específico indicado",
+    "byYear": "Probabilidade por ano",
+    "updatedNotice": "Esta previsão foi atualizada mais tarde. Ver a mais recente",
+    "source": "Fonte",
+    "openSource": "Abrir fonte"
+  },
+  "targets": {
+    "tai": "IA transformadora",
+    "asi": "Superinteligência",
+    "singularity": "Singularidade",
+    "faol": "Automação total"
+  },
+  "types": {
+    "individual": "Pessoa",
+    "survey": "Inquérito",
+    "community": "Comunidade",
+    "model": "Modelo",
+    "scenario": "Cenário"
+  },
+  "timeline": {
+    "title": "De Turing até hoje",
+    "subtitle": "Ideias, artigos e acontecimentos que moldaram o pensamento sobre a superinteligência. Toque para expandir.",
+    "empty": "Ainda sem marcos."
+  },
+  "kinds": {
+    "idea": "Ideia",
+    "publication": "Publicação",
+    "organization": "Organização",
+    "statement": "Declaração",
+    "policy": "Política",
+    "technical": "Técnico"
+  },
+  "orgs": {
+    "title": "Quem está a trabalhar nisto",
+    "subtitle": "Laboratórios de IA de ponta, investigadores de segurança e institutos públicos.",
+    "empty": "Nenhuma organização encontrada.",
+    "visitWebsite": "Visitar site",
+    "since": "Desde {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laboratório",
+    "research": "Investigação",
+    "nonprofit": "Sem fins lucrativos",
+    "government": "Governo",
+    "other": "Outro"
+  },
+  "search": {
+    "title": "Encontre qualquer coisa",
+    "hint": "Pesquise conceitos, previsões, organizações e marcos.",
+    "noResults": "Sem resultados para “{{q}}”."
+  },
+  "sections": {
+    "concepts": "Conceitos",
+    "organizations": "Organizações",
+    "milestones": "Marcos"
+  },
+  "concept": {
+    "related": "Relacionados",
+    "tags": "Etiquetas"
+  },
+  "titles": {
+    "concept": "Conceito",
+    "forecast": "Previsão"
+  },
+  "nav": {
+    "privacy": "Privacidade",
+    "support": "Suporte",
+    "terms": "Termos"
+  },
+  "home": {
+    "title": "Quando poderá a IA ultrapassar-nos?",
+    "lead": "O seu guia sobre a superinteligência: conceitos-chave, previsões de especialistas, uma linha do tempo desde 1950 e as organizações que trabalham nisso.",
+    "cta": "Começar a explorar",
+    "forecastsTitle": "O que dizem as previsões",
+    "forecastsNote": "Mediana das previsões atuais que indicam um ano. As definições variam entre fontes.",
+    "featuresTitle": "Tudo num só lugar",
+    "f1": "As ideias-chave do debate, explicadas de forma simples.",
+    "f2": "Previsões de especialistas sobre quando poderá chegar, com todas as fontes ligadas.",
+    "f3": "Artigos, livros e acontecimentos de Turing até hoje.",
+    "f4": "Laboratórios de IA de ponta, investigadores de segurança e institutos públicos.",
+    "comingSoon": "Brevemente na",
+    "downloadOn": "Descarregar na"
+  }
+}

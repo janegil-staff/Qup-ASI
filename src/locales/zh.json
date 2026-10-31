@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "探索",
+    "forecasts": "预测",
+    "timeline": "时间线",
+    "orgs": "机构",
+    "search": "搜索"
+  },
+  "common": {
+    "tryAgain": "重试",
+    "language": "语言"
+  },
+  "explore": {
+    "title": "超级智能",
+    "subtitle": "关于可能远超人类能力的人工智能的核心概念。",
+    "empty": "未找到概念。"
+  },
+  "categories": {
+    "all": "全部",
+    "definition": "定义",
+    "theory": "理论",
+    "safety": "安全",
+    "governance": "治理",
+    "capability": "能力"
+  },
+  "forecasts": {
+    "title": "它可能何时到来？",
+    "subtitle": "来自调查、预测者和实验室负责人的预测。定义各不相同，请在同一目标内比较。",
+    "empty": "未找到预测。",
+    "updatedLater": "后来已更新",
+    "made": "发布于 {{year}} 年",
+    "median": "{{year}} 年前约 50%",
+    "legend": "虚线 = 今天。圆点 = 概率约 50% 的年份。",
+    "medianLabel": "概率约 50% 的年份",
+    "noYear": "未给出具体年份",
+    "byYear": "按年份的概率",
+    "updatedNotice": "该预测后来已更新。查看较新的预测",
+    "source": "来源",
+    "openSource": "打开来源"
+  },
+  "targets": {
+    "tai": "变革性人工智能",
+    "asi": "超级智能",
+    "singularity": "奇点",
+    "faol": "完全自动化"
+  },
+  "types": {
+    "individual": "个人",
+    "survey": "调查",
+    "community": "社区",
+    "model": "模型",
+    "scenario": "情景"
+  },
+  "timeline": {
+    "title": "从图灵到今天",
+    "subtitle": "塑造了人们对超级智能思考的想法、论文和事件。点按展开。",
+    "empty": "暂无里程碑。"
+  },
+  "kinds": {
+    "idea": "想法",
+    "publication": "出版物",
+    "organization": "机构",
+    "statement": "声明",
+    "policy": "政策",
+    "technical": "技术"
+  },
+  "orgs": {
+    "title": "谁在研究它",
+    "subtitle": "前沿 AI 实验室、安全研究人员和政府机构。",
+    "empty": "未找到机构。",
+    "visitWebsite": "访问网站",
+    "since": "自 {{year}} 年起"
+  },
+  "orgTypes": {
+    "lab": "实验室",
+    "research": "研究",
+    "nonprofit": "非营利",
+    "government": "政府",
+    "other": "其他"
+  },
+  "search": {
+    "title": "搜索任何内容",
+    "hint": "搜索概念、预测、机构和里程碑。",
+    "noResults": "没有与“{{q}}”相关的结果。"
+  },
+  "sections": {
+    "concepts": "概念",
+    "organizations": "机构",
+    "milestones": "里程碑"
+  },
+  "concept": {
+    "related": "相关",
+    "tags": "标签"
+  },
+  "titles": {
+    "concept": "概念",
+    "forecast": "预测"
+  },
+  "nav": {
+    "privacy": "隐私",
+    "support": "支持",
+    "terms": "条款"
+  },
+  "home": {
+    "title": "AI 何时可能超越我们？",
+    "lead": "超级智能指南：核心概念、专家预测、自 1950 年以来的时间线，以及致力于此的机构。",
+    "cta": "开始探索",
+    "forecastsTitle": "预测怎么说",
+    "forecastsNote": "给出年份的当前预测的中位数。不同来源的定义各不相同。",
+    "featuresTitle": "一站式了解",
+    "f1": "用通俗语言讲解这场讨论的核心概念。",
+    "f2": "专家对其到来时间的预测，并附上每个来源的链接。",
+    "f3": "从图灵到今天的论文、书籍和事件。",
+    "f4": "前沿 AI 实验室、安全研究人员和政府机构。",
+    "comingSoon": "即将登陆",
+    "downloadOn": "下载于"
+  }
+}

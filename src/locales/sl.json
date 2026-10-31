@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Raziskuj",
+    "forecasts": "Napovedi",
+    "timeline": "Časovnica",
+    "orgs": "Org.",
+    "search": "Iskanje"
+  },
+  "common": {
+    "tryAgain": "Poskusi znova",
+    "language": "Jezik"
+  },
+  "explore": {
+    "title": "Superinteligenca",
+    "subtitle": "Ključne ideje o UI, ki bi lahko daleč presegla človeške sposobnosti.",
+    "empty": "Ni najdenih pojmov."
+  },
+  "categories": {
+    "all": "Vse",
+    "definition": "Definicija",
+    "theory": "Teorija",
+    "safety": "Varnost",
+    "governance": "Upravljanje",
+    "capability": "Zmogljivost"
+  },
+  "forecasts": {
+    "title": "Kdaj bi lahko prišla?",
+    "subtitle": "Napovedi iz anket, napovedovalcev in vodij laboratorijev. Definicije se razlikujejo, zato primerjaj znotraj istega cilja.",
+    "empty": "Ni najdenih napovedi.",
+    "updatedLater": "Pozneje posodobljeno",
+    "made": "Iz leta {{year}}",
+    "median": "~50 % do leta {{year}}",
+    "legend": "Črtkana črta = danes. Pika = leto s ~50 % verjetnostjo.",
+    "medianLabel": "Leto s ~50 % verjetnostjo",
+    "noYear": "Ni navedenega leta",
+    "byYear": "Verjetnost po letih",
+    "updatedNotice": "Ta napoved je bila pozneje posodobljena. Poglej novejšo",
+    "source": "Vir",
+    "openSource": "Odpri vir"
+  },
+  "targets": {
+    "tai": "Transformativna UI",
+    "asi": "Superinteligenca",
+    "singularity": "Singularnost",
+    "faol": "Popolna avtomatizacija"
+  },
+  "types": {
+    "individual": "Oseba",
+    "survey": "Anketa",
+    "community": "Skupnost",
+    "model": "Model",
+    "scenario": "Scenarij"
+  },
+  "timeline": {
+    "title": "Od Turinga do danes",
+    "subtitle": "Ideje, dela in dogodki, ki so oblikovali razmišljanje o superinteligenci. Tapni za razširitev.",
+    "empty": "Še ni mejnikov."
+  },
+  "kinds": {
+    "idea": "Ideja",
+    "publication": "Objava",
+    "organization": "Organizacija",
+    "statement": "Izjava",
+    "policy": "Politika",
+    "technical": "Tehnično"
+  },
+  "orgs": {
+    "title": "Kdo dela na tem",
+    "subtitle": "Vodilni laboratoriji UI, raziskovalci varnosti in državni inštituti.",
+    "empty": "Ni najdenih organizacij.",
+    "visitWebsite": "Obišči spletno mesto",
+    "since": "Od leta {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laboratorij",
+    "research": "Raziskave",
+    "nonprofit": "Neprofitna",
+    "government": "Državna",
+    "other": "Drugo"
+  },
+  "search": {
+    "title": "Najdi karkoli",
+    "hint": "Išči pojme, napovedi, organizacije in mejnike.",
+    "noResults": "Ni rezultatov za »{{q}}«."
+  },
+  "sections": {
+    "concepts": "Pojmi",
+    "organizations": "Organizacije",
+    "milestones": "Mejniki"
+  },
+  "concept": {
+    "related": "Sorodno",
+    "tags": "Oznake"
+  },
+  "titles": {
+    "concept": "Pojem",
+    "forecast": "Napoved"
+  },
+  "nav": {
+    "privacy": "Zasebnost",
+    "support": "Podpora",
+    "terms": "Pogoji"
+  },
+  "home": {
+    "title": "Kdaj bi nas lahko UI prehitela?",
+    "lead": "Vaš vodnik po superinteligenci: ključni pojmi, napovedi strokovnjakov, časovnica od leta 1950 in organizacije, ki delajo na tem.",
+    "cta": "Začni raziskovati",
+    "forecastsTitle": "Kaj pravijo napovedi",
+    "forecastsNote": "Mediana trenutnih napovedi, ki navajajo leto. Definicije se med viri razlikujejo.",
+    "featuresTitle": "Vse na enem mestu",
+    "f1": "Ključne ideje razprave, preprosto razložene.",
+    "f2": "Napovedi strokovnjakov, kdaj bi lahko prišla, s povezavo na vsak vir.",
+    "f3": "Dela, knjige in dogodki od Turinga do danes.",
+    "f4": "Vodilni laboratoriji UI, raziskovalci varnosti in državni inštituti.",
+    "comingSoon": "Kmalu v",
+    "downloadOn": "Prenesi iz"
+  }
+}

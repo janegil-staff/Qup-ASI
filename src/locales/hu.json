@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Felfedezés",
+    "forecasts": "Előrejelzések",
+    "timeline": "Idővonal",
+    "orgs": "Szerv.",
+    "search": "Keresés"
+  },
+  "common": {
+    "tryAgain": "Újra",
+    "language": "Nyelv"
+  },
+  "explore": {
+    "title": "Szuperintelligencia",
+    "subtitle": "A legfontosabb gondolatok egy olyan MI-ről, amely messze meghaladhatja az emberi képességeket.",
+    "empty": "Nincs találat."
+  },
+  "categories": {
+    "all": "Mind",
+    "definition": "Definíció",
+    "theory": "Elmélet",
+    "safety": "Biztonság",
+    "governance": "Irányítás",
+    "capability": "Képesség"
+  },
+  "forecasts": {
+    "title": "Mikor érkezhet?",
+    "subtitle": "Előrejelzések felmérésekből, előrejelzőktől és laborvezetőktől. A definíciók eltérnek, ezért egy célon belül hasonlíts össze.",
+    "empty": "Nincs előrejelzés.",
+    "updatedLater": "Később frissítve",
+    "made": "Készült: {{year}}",
+    "median": "~50% eddig: {{year}}",
+    "legend": "Szaggatott vonal = ma. Pont = a ~50%-os valószínűségű év.",
+    "medianLabel": "~50%-os valószínűségű év",
+    "noYear": "Nincs megadott év",
+    "byYear": "Valószínűség évenként",
+    "updatedNotice": "Ezt az előrejelzést később frissítették. Az újabb megtekintése",
+    "source": "Forrás",
+    "openSource": "Forrás megnyitása"
+  },
+  "targets": {
+    "tai": "Átalakító MI",
+    "asi": "Szuperintelligencia",
+    "singularity": "Szingularitás",
+    "faol": "Teljes automatizálás"
+  },
+  "types": {
+    "individual": "Személy",
+    "survey": "Felmérés",
+    "community": "Közösség",
+    "model": "Modell",
+    "scenario": "Forgatókönyv"
+  },
+  "timeline": {
+    "title": "Turingtól napjainkig",
+    "subtitle": "Gondolatok, írások és események, amelyek formálták a szuperintelligenciáról való gondolkodást. Koppints a kibontáshoz.",
+    "empty": "Még nincsenek mérföldkövek."
+  },
+  "kinds": {
+    "idea": "Ötlet",
+    "publication": "Publikáció",
+    "organization": "Szervezet",
+    "statement": "Nyilatkozat",
+    "policy": "Szakpolitika",
+    "technical": "Technikai"
+  },
+  "orgs": {
+    "title": "Kik dolgoznak rajta",
+    "subtitle": "Élvonalbeli MI-laborok, biztonsági kutatók és állami intézetek.",
+    "empty": "Nincs szervezet.",
+    "visitWebsite": "Weboldal megnyitása",
+    "since": "Kezdete: {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Labor",
+    "research": "Kutatás",
+    "nonprofit": "Nonprofit",
+    "government": "Állami",
+    "other": "Egyéb"
+  },
+  "search": {
+    "title": "Keress bármit",
+    "hint": "Keresés fogalmak, előrejelzések, szervezetek és mérföldkövek között.",
+    "noResults": "Nincs találat erre: „{{q}}”."
+  },
+  "sections": {
+    "concepts": "Fogalmak",
+    "organizations": "Szervezetek",
+    "milestones": "Mérföldkövek"
+  },
+  "concept": {
+    "related": "Kapcsolódó",
+    "tags": "Címkék"
+  },
+  "titles": {
+    "concept": "Fogalom",
+    "forecast": "Előrejelzés"
+  },
+  "nav": {
+    "privacy": "Adatvédelem",
+    "support": "Támogatás",
+    "terms": "Feltételek"
+  },
+  "home": {
+    "title": "Mikor előzhet meg minket az MI?",
+    "lead": "Útmutató a szuperintelligenciához: kulcsfogalmak, szakértői előrejelzések, idővonal 1950-től és az ezen dolgozó szervezetek.",
+    "cta": "Felfedezés indítása",
+    "forecastsTitle": "Mit mondanak az előrejelzések",
+    "forecastsNote": "Az évszámot megadó aktuális előrejelzések mediánja. A definíciók forrásonként eltérnek.",
+    "featuresTitle": "Minden egy helyen",
+    "f1": "A vita kulcsgondolatai közérthetően.",
+    "f2": "Szakértői előrejelzések az érkezéséről, minden forrás linkelve.",
+    "f3": "Írások, könyvek és események Turingtól napjainkig.",
+    "f4": "Élvonalbeli MI-laborok, biztonsági kutatók és állami intézetek.",
+    "comingSoon": "Hamarosan itt:",
+    "downloadOn": "Letöltés:"
+  }
+}

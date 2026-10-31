@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Keşfet",
+    "forecasts": "Tahminler",
+    "timeline": "Zaman çizelgesi",
+    "orgs": "Kur.",
+    "search": "Ara"
+  },
+  "common": {
+    "tryAgain": "Tekrar dene",
+    "language": "Dil"
+  },
+  "explore": {
+    "title": "Süper zekâ",
+    "subtitle": "İnsan yeteneğini çok aşabilecek yapay zekânın ardındaki temel fikirler.",
+    "empty": "Kavram bulunamadı."
+  },
+  "categories": {
+    "all": "Tümü",
+    "definition": "Tanım",
+    "theory": "Teori",
+    "safety": "Güvenlik",
+    "governance": "Yönetişim",
+    "capability": "Yetenek"
+  },
+  "forecasts": {
+    "title": "Ne zaman gelebilir?",
+    "subtitle": "Anketlerden, tahmincilerden ve laboratuvar liderlerinden tahminler. Tanımlar farklıdır, bu yüzden aynı hedef içinde karşılaştırın.",
+    "empty": "Tahmin bulunamadı.",
+    "updatedLater": "Sonradan güncellendi",
+    "made": "{{year}} yılında yapıldı",
+    "median": "{{year}} yılına kadar ~%50",
+    "legend": "Kesikli çizgi = bugün. Nokta = ~%50 olasılıklı yıl.",
+    "medianLabel": "~%50 olasılıklı yıl",
+    "noYear": "Belirli bir yıl verilmemiş",
+    "byYear": "Yıllara göre olasılık",
+    "updatedNotice": "Bu tahmin daha sonra güncellendi. Yenisini gör",
+    "source": "Kaynak",
+    "openSource": "Kaynağı aç"
+  },
+  "targets": {
+    "tai": "Dönüştürücü yapay zekâ",
+    "asi": "Süper zekâ",
+    "singularity": "Tekillik",
+    "faol": "Tam otomasyon"
+  },
+  "types": {
+    "individual": "Kişi",
+    "survey": "Anket",
+    "community": "Topluluk",
+    "model": "Model",
+    "scenario": "Senaryo"
+  },
+  "timeline": {
+    "title": "Turing’den bugüne",
+    "subtitle": "Süper zekâ düşüncesini şekillendiren fikirler, çalışmalar ve olaylar. Genişletmek için dokunun.",
+    "empty": "Henüz kilometre taşı yok."
+  },
+  "kinds": {
+    "idea": "Fikir",
+    "publication": "Yayın",
+    "organization": "Kuruluş",
+    "statement": "Bildiri",
+    "policy": "Politika",
+    "technical": "Teknik"
+  },
+  "orgs": {
+    "title": "Kimler üzerinde çalışıyor",
+    "subtitle": "Öncü yapay zekâ laboratuvarları, güvenlik araştırmacıları ve kamu enstitüleri.",
+    "empty": "Kuruluş bulunamadı.",
+    "visitWebsite": "Web sitesini ziyaret et",
+    "since": "{{year}} yılından beri"
+  },
+  "orgTypes": {
+    "lab": "Laboratuvar",
+    "research": "Araştırma",
+    "nonprofit": "Kâr amacı gütmeyen",
+    "government": "Kamu",
+    "other": "Diğer"
+  },
+  "search": {
+    "title": "Her şeyi bulun",
+    "hint": "Kavram, tahmin, kuruluş ve kilometre taşlarında arayın.",
+    "noResults": "“{{q}}” için sonuç yok."
+  },
+  "sections": {
+    "concepts": "Kavramlar",
+    "organizations": "Kuruluşlar",
+    "milestones": "Kilometre taşları"
+  },
+  "concept": {
+    "related": "İlgili",
+    "tags": "Etiketler"
+  },
+  "titles": {
+    "concept": "Kavram",
+    "forecast": "Tahmin"
+  },
+  "nav": {
+    "privacy": "Gizlilik",
+    "support": "Destek",
+    "terms": "Koşullar"
+  },
+  "home": {
+    "title": "Yapay zekâ bizi ne zaman geçebilir?",
+    "lead": "Süper zekâ rehberiniz: temel kavramlar, uzman tahminleri, 1950’den bugüne zaman çizelgesi ve bu alanda çalışan kuruluşlar.",
+    "cta": "Keşfetmeye başla",
+    "forecastsTitle": "Tahminler ne diyor",
+    "forecastsNote": "Yıl belirten güncel tahminlerin medyanı. Tanımlar kaynaklara göre değişir.",
+    "featuresTitle": "Her şey tek bir yerde",
+    "f1": "Tartışmanın temel fikirleri, sade bir dille.",
+    "f2": "Ne zaman gelebileceğine dair uzman tahminleri, tüm kaynaklar bağlantılı.",
+    "f3": "Turing’den bugüne çalışmalar, kitaplar ve olaylar.",
+    "f4": "Öncü yapay zekâ laboratuvarları, güvenlik araştırmacıları ve kamu enstitüleri.",
+    "comingSoon": "Çok yakında",
+    "downloadOn": "İndir:"
+  }
+}

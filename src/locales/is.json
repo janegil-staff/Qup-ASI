@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Kanna",
+    "forecasts": "Spár",
+    "timeline": "Tímalína",
+    "orgs": "Stofn.",
+    "search": "Leita"
+  },
+  "common": {
+    "tryAgain": "Reyna aftur",
+    "language": "Tungumál"
+  },
+  "explore": {
+    "title": "Ofurgreind",
+    "subtitle": "Helstu hugmyndirnar á bak við gervigreind sem gæti farið langt fram úr getu manna.",
+    "empty": "Engin hugtök fundust."
+  },
+  "categories": {
+    "all": "Allt",
+    "definition": "Skilgreining",
+    "theory": "Kenning",
+    "safety": "Öryggi",
+    "governance": "Stjórnun",
+    "capability": "Geta"
+  },
+  "forecasts": {
+    "title": "Hvenær gæti hún komið?",
+    "subtitle": "Spár úr könnunum, frá spámönnum og leiðtogum rannsóknastofa. Skilgreiningar eru ólíkar, svo berðu saman innan sama markmiðs.",
+    "empty": "Engar spár fundust.",
+    "updatedLater": "Uppfært síðar",
+    "made": "Gert {{year}}",
+    "median": "~50% fyrir {{year}}",
+    "legend": "Brotin lína = í dag. Punktur = árið með ~50% líkum.",
+    "medianLabel": "Ár með ~50% líkum",
+    "noYear": "Ekkert eitt ár gefið upp",
+    "byYear": "Líkur eftir árum",
+    "updatedNotice": "Þessi spá var uppfærð síðar. Sjá nýrri spána",
+    "source": "Heimild",
+    "openSource": "Opna heimild"
+  },
+  "targets": {
+    "tai": "Umbreytandi gervigreind",
+    "asi": "Ofurgreind",
+    "singularity": "Sérstæða",
+    "faol": "Full sjálfvirknivæðing"
+  },
+  "types": {
+    "individual": "Einstaklingur",
+    "survey": "Könnun",
+    "community": "Samfélag",
+    "model": "Líkan",
+    "scenario": "Sviðsmynd"
+  },
+  "timeline": {
+    "title": "Frá Turing til dagsins í dag",
+    "subtitle": "Hugmyndir, greinar og atburðir sem mótuðu hugsun um ofurgreind. Ýttu til að stækka.",
+    "empty": "Engir áfangar enn."
+  },
+  "kinds": {
+    "idea": "Hugmynd",
+    "publication": "Útgáfa",
+    "organization": "Stofnun",
+    "statement": "Yfirlýsing",
+    "policy": "Stefna",
+    "technical": "Tæknilegt"
+  },
+  "orgs": {
+    "title": "Hver vinnur að þessu",
+    "subtitle": "Leiðandi gervigreindarstofur, öryggisrannsakendur og opinberar stofnanir.",
+    "empty": "Engar stofnanir fundust.",
+    "visitWebsite": "Opna vefsíðu",
+    "since": "Frá {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Rannsóknastofa",
+    "research": "Rannsóknir",
+    "nonprofit": "Án hagnaðar",
+    "government": "Opinber",
+    "other": "Annað"
+  },
+  "search": {
+    "title": "Finndu hvað sem er",
+    "hint": "Leitaðu í hugtökum, spám, stofnunum og áföngum.",
+    "noResults": "Engar niðurstöður fyrir „{{q}}“."
+  },
+  "sections": {
+    "concepts": "Hugtök",
+    "organizations": "Stofnanir",
+    "milestones": "Áfangar"
+  },
+  "concept": {
+    "related": "Tengt",
+    "tags": "Merki"
+  },
+  "titles": {
+    "concept": "Hugtak",
+    "forecast": "Spá"
+  },
+  "nav": {
+    "privacy": "Persónuvernd",
+    "support": "Aðstoð",
+    "terms": "Skilmálar"
+  },
+  "home": {
+    "title": "Hvenær gæti gervigreind farið fram úr okkur?",
+    "lead": "Leiðarvísir þinn um ofurgreind: lykilhugtök, spár sérfræðinga, tímalína frá 1950 og stofnanirnar sem vinna að henni.",
+    "cta": "Byrjaðu að kanna",
+    "forecastsTitle": "Hvað spárnar segja",
+    "forecastsNote": "Miðgildi núverandi spáa sem tilgreina ártal. Skilgreiningar eru ólíkar milli heimilda.",
+    "featuresTitle": "Allt á einum stað",
+    "f1": "Helstu hugmyndir umræðunnar, útskýrðar á einfaldan hátt.",
+    "f2": "Spár sérfræðinga um hvenær hún gæti komið, með tengli á allar heimildir.",
+    "f3": "Greinar, bækur og atburðir frá Turing til dagsins í dag.",
+    "f4": "Leiðandi gervigreindarstofur, öryggisrannsakendur og opinberar stofnanir.",
+    "comingSoon": "Væntanlegt á",
+    "downloadOn": "Sækja á"
+  }
+}

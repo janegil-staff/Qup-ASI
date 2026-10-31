@@ -1,34 +1,31 @@
-# ASI website
+# Qup ASI website
 
-Next.js (App Router, plain JavaScript) site for the ASI app: landing page, privacy policy, support and terms.
+Next.js (App Router, plain JavaScript) website for Qup ASI, with the same content as the app:
 
-## Before you deploy
+- `/` landing page with live forecast numbers
+- `/concepts` + `/concepts/[slug]` key ideas, filter by category
+- `/forecasts` + `/forecasts/[slug]` chart, list, filter by target, probabilities and sources
+- `/timeline` milestones from 1950, click to expand
+- `/organizations` + `/organizations/[slug]` filter by type
+- `/search?q=` search across everything
+- `/privacy`, `/terms`, `/support`
 
-Edit `src/config/site.js`:
+All data comes from the ASI API (`src/config/site.js` → `apiUrl`), rendered on the server and cached for an hour.
 
-- `supportEmail`: your real support email (used on privacy, support and terms)
-- `appStoreUrl` / `playStoreUrl`: add when the app is live; the buttons show "Coming soon" until then
+## Languages
 
-## Run locally
+35 languages, same as the app (`src/locales/*.json`). The language picker in the header stores the choice in a
+`lang` cookie; English is the default. Arabic and Hebrew switch the layout to right-to-left.
+Content from the API (concepts, summaries) and the legal pages are in English.
+
+## Configure
+
+Edit `src/config/site.js`: `supportEmail`, and `appStoreUrl` / `playStoreUrl` when the app is live.
+
+## Run and deploy
 
 ```bash
 npm install
-npm run dev     # http://localhost:3000
+npm run dev          # http://localhost:3000
+npx vercel --prod    # deploy
 ```
-
-## Deploy to Vercel
-
-```bash
-npx vercel          # first time: log in, accept the defaults → preview URL
-npx vercel --prod   # production URL
-```
-
-Or push to GitHub and import the repo at vercel.com/new (framework: Next.js, no settings needed).
-
-## Store URLs
-
-- Privacy Policy URL: `https://<your-domain>/privacy`
-- Support URL: `https://<your-domain>/support`
-- Marketing URL (optional): `https://<your-domain>/`
-
-The landing page shows live forecast numbers from the ASI API, refreshed every hour.

@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Izpētīt",
+    "forecasts": "Prognozes",
+    "timeline": "Laika skala",
+    "orgs": "Org.",
+    "search": "Meklēt"
+  },
+  "common": {
+    "tryAgain": "Mēģināt vēlreiz",
+    "language": "Valoda"
+  },
+  "explore": {
+    "title": "Superintelekts",
+    "subtitle": "Galvenās idejas par MI, kas varētu tālu pārspēt cilvēka spējas.",
+    "empty": "Jēdzieni nav atrasti."
+  },
+  "categories": {
+    "all": "Visi",
+    "definition": "Definīcija",
+    "theory": "Teorija",
+    "safety": "Drošība",
+    "governance": "Pārvaldība",
+    "capability": "Spējas"
+  },
+  "forecasts": {
+    "title": "Kad tas varētu notikt?",
+    "subtitle": "Prognozes no aptaujām, prognozētājiem un laboratoriju vadītājiem. Definīcijas atšķiras, tāpēc salīdziniet viena mērķa ietvaros.",
+    "empty": "Prognozes nav atrastas.",
+    "updatedLater": "Vēlāk atjaunināta",
+    "made": "Veikta {{year}}. g.",
+    "median": "~50% līdz {{year}}. g.",
+    "legend": "Raustīta līnija = šodien. Punkts = gads ar ~50% varbūtību.",
+    "medianLabel": "Gads ar ~50% varbūtību",
+    "noYear": "Konkrēts gads nav norādīts",
+    "byYear": "Varbūtība pa gadiem",
+    "updatedNotice": "Šī prognoze vēlāk tika atjaunināta. Skatīt jaunāko",
+    "source": "Avots",
+    "openSource": "Atvērt avotu"
+  },
+  "targets": {
+    "tai": "Transformējošs MI",
+    "asi": "Superintelekts",
+    "singularity": "Singularitāte",
+    "faol": "Pilnīga automatizācija"
+  },
+  "types": {
+    "individual": "Persona",
+    "survey": "Aptauja",
+    "community": "Kopiena",
+    "model": "Modelis",
+    "scenario": "Scenārijs"
+  },
+  "timeline": {
+    "title": "No Tjūringa līdz mūsdienām",
+    "subtitle": "Idejas, darbi un notikumi, kas veidojuši domāšanu par superintelektu. Pieskarieties, lai izvērstu.",
+    "empty": "Pagaidām nav pagrieziena punktu."
+  },
+  "kinds": {
+    "idea": "Ideja",
+    "publication": "Publikācija",
+    "organization": "Organizācija",
+    "statement": "Paziņojums",
+    "policy": "Politika",
+    "technical": "Tehnisks"
+  },
+  "orgs": {
+    "title": "Kas pie tā strādā",
+    "subtitle": "Vadošās MI laboratorijas, drošības pētnieki un valsts institūti.",
+    "empty": "Organizācijas nav atrastas.",
+    "visitWebsite": "Apmeklēt vietni",
+    "since": "Kopš {{year}}. g."
+  },
+  "orgTypes": {
+    "lab": "Laboratorija",
+    "research": "Pētniecība",
+    "nonprofit": "Bezpeļņas",
+    "government": "Valsts",
+    "other": "Cits"
+  },
+  "search": {
+    "title": "Atrodi jebko",
+    "hint": "Meklējiet jēdzienus, prognozes, organizācijas un pagrieziena punktus.",
+    "noResults": "Nav rezultātu vaicājumam “{{q}}”."
+  },
+  "sections": {
+    "concepts": "Jēdzieni",
+    "organizations": "Organizācijas",
+    "milestones": "Pagrieziena punkti"
+  },
+  "concept": {
+    "related": "Saistītie",
+    "tags": "Birkas"
+  },
+  "titles": {
+    "concept": "Jēdziens",
+    "forecast": "Prognoze"
+  },
+  "nav": {
+    "privacy": "Privātums",
+    "support": "Atbalsts",
+    "terms": "Noteikumi"
+  },
+  "home": {
+    "title": "Kad MI varētu mūs apsteigt?",
+    "lead": "Jūsu ceļvedis par superintelektu: galvenie jēdzieni, ekspertu prognozes, laika skala kopš 1950. gada un organizācijas, kas pie tā strādā.",
+    "cta": "Sākt izpēti",
+    "forecastsTitle": "Ko saka prognozes",
+    "forecastsNote": "Pašreizējo prognožu ar norādītu gadu mediāna. Definīcijas dažādos avotos atšķiras.",
+    "featuresTitle": "Viss vienuviet",
+    "f1": "Diskusijas galvenās idejas vienkārši izskaidrotas.",
+    "f2": "Ekspertu prognozes par to, kad tas varētu notikt, ar saitēm uz avotiem.",
+    "f3": "Darbi, grāmatas un notikumi no Tjūringa līdz mūsdienām.",
+    "f4": "Vadošās MI laboratorijas, drošības pētnieki un valsts institūti.",
+    "comingSoon": "Drīzumā",
+    "downloadOn": "Lejupielādēt"
+  }
+}

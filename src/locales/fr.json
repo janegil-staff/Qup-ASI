@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Explorer",
+    "forecasts": "Prévisions",
+    "timeline": "Chronologie",
+    "orgs": "Org.",
+    "search": "Rechercher"
+  },
+  "common": {
+    "tryAgain": "Réessayer",
+    "language": "Langue"
+  },
+  "explore": {
+    "title": "Superintelligence",
+    "subtitle": "Les idées clés derrière une IA qui pourrait dépasser de loin les capacités humaines.",
+    "empty": "Aucun concept trouvé."
+  },
+  "categories": {
+    "all": "Tout",
+    "definition": "Définition",
+    "theory": "Théorie",
+    "safety": "Sécurité",
+    "governance": "Gouvernance",
+    "capability": "Capacité"
+  },
+  "forecasts": {
+    "title": "Quand pourrait-elle arriver ?",
+    "subtitle": "Prévisions issues d’enquêtes, de prévisionnistes et de dirigeants de laboratoires. Les définitions varient : comparez au sein d’une même cible.",
+    "empty": "Aucune prévision trouvée.",
+    "updatedLater": "Mise à jour plus tard",
+    "made": "Faite en {{year}}",
+    "median": "~50 % d’ici {{year}}",
+    "legend": "Ligne pointillée = aujourd’hui. Point = année avec ~50 % de probabilité.",
+    "medianLabel": "Année avec ~50 % de probabilité",
+    "noYear": "Aucune année précise indiquée",
+    "byYear": "Probabilité par année",
+    "updatedNotice": "Cette prévision a été mise à jour plus tard. Voir la plus récente",
+    "source": "Source",
+    "openSource": "Ouvrir la source"
+  },
+  "targets": {
+    "tai": "IA transformatrice",
+    "asi": "Superintelligence",
+    "singularity": "Singularité",
+    "faol": "Automatisation totale"
+  },
+  "types": {
+    "individual": "Personne",
+    "survey": "Enquête",
+    "community": "Communauté",
+    "model": "Modèle",
+    "scenario": "Scénario"
+  },
+  "timeline": {
+    "title": "De Turing à aujourd’hui",
+    "subtitle": "Idées, articles et événements qui ont façonné la réflexion sur la superintelligence. Touchez pour développer.",
+    "empty": "Aucun jalon pour l’instant."
+  },
+  "kinds": {
+    "idea": "Idée",
+    "publication": "Publication",
+    "organization": "Organisation",
+    "statement": "Déclaration",
+    "policy": "Politique",
+    "technical": "Technique"
+  },
+  "orgs": {
+    "title": "Qui y travaille",
+    "subtitle": "Laboratoires d’IA de pointe, chercheurs en sécurité et instituts publics.",
+    "empty": "Aucune organisation trouvée.",
+    "visitWebsite": "Visiter le site",
+    "since": "Depuis {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Laboratoire",
+    "research": "Recherche",
+    "nonprofit": "Association",
+    "government": "Public",
+    "other": "Autre"
+  },
+  "search": {
+    "title": "Tout trouver",
+    "hint": "Recherchez des concepts, prévisions, organisations et jalons.",
+    "noResults": "Aucun résultat pour « {{q}} »."
+  },
+  "sections": {
+    "concepts": "Concepts",
+    "organizations": "Organisations",
+    "milestones": "Jalons"
+  },
+  "concept": {
+    "related": "Liés",
+    "tags": "Tags"
+  },
+  "titles": {
+    "concept": "Concept",
+    "forecast": "Prévision"
+  },
+  "nav": {
+    "privacy": "Confidentialité",
+    "support": "Assistance",
+    "terms": "Conditions"
+  },
+  "home": {
+    "title": "Quand l’IA pourrait-elle nous dépasser ?",
+    "lead": "Votre guide de la superintelligence : concepts clés, prévisions d’experts, une chronologie depuis 1950 et les organisations qui y travaillent.",
+    "cta": "Commencer l’exploration",
+    "forecastsTitle": "Ce que disent les prévisions",
+    "forecastsNote": "Médiane des prévisions actuelles qui donnent une année. Les définitions varient selon les sources.",
+    "featuresTitle": "Tout au même endroit",
+    "f1": "Les idées clés du débat, expliquées simplement.",
+    "f2": "Les prévisions d’experts sur son arrivée, avec chaque source en lien.",
+    "f3": "Articles, livres et événements, de Turing à aujourd’hui.",
+    "f4": "Laboratoires d’IA de pointe, chercheurs en sécurité et instituts publics.",
+    "comingSoon": "Bientôt sur",
+    "downloadOn": "Télécharger sur"
+  }
+}

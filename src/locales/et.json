@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Avasta",
+    "forecasts": "Prognoosid",
+    "timeline": "Ajajoon",
+    "orgs": "Org.",
+    "search": "Otsi"
+  },
+  "common": {
+    "tryAgain": "Proovi uuesti",
+    "language": "Keel"
+  },
+  "explore": {
+    "title": "Ülimõistus",
+    "subtitle": "Põhiideed tehisintellekti kohta, mis võiks inimvõimeid kaugelt ületada.",
+    "empty": "Mõisteid ei leitud."
+  },
+  "categories": {
+    "all": "Kõik",
+    "definition": "Definitsioon",
+    "theory": "Teooria",
+    "safety": "Ohutus",
+    "governance": "Juhtimine",
+    "capability": "Võimekus"
+  },
+  "forecasts": {
+    "title": "Millal see võiks saabuda?",
+    "subtitle": "Prognoosid küsitlustest, prognoosijatelt ja laborijuhtidelt. Definitsioonid erinevad, seega võrdle sama eesmärgi piires.",
+    "empty": "Prognoose ei leitud.",
+    "updatedLater": "Hiljem uuendatud",
+    "made": "Tehtud {{year}}",
+    "median": "~50% aastaks {{year}}",
+    "legend": "Katkendjoon = täna. Punkt = aasta ~50% tõenäosusega.",
+    "medianLabel": "Aasta ~50% tõenäosusega",
+    "noYear": "Konkreetset aastat pole antud",
+    "byYear": "Tõenäosus aastate kaupa",
+    "updatedNotice": "Seda prognoosi uuendati hiljem. Vaata uuemat",
+    "source": "Allikas",
+    "openSource": "Ava allikas"
+  },
+  "targets": {
+    "tai": "Muutev tehisintellekt",
+    "asi": "Ülimõistus",
+    "singularity": "Singulaarsus",
+    "faol": "Täielik automatiseerimine"
+  },
+  "types": {
+    "individual": "Isik",
+    "survey": "Küsitlus",
+    "community": "Kogukond",
+    "model": "Mudel",
+    "scenario": "Stsenaarium"
+  },
+  "timeline": {
+    "title": "Turingist tänapäevani",
+    "subtitle": "Ideed, tööd ja sündmused, mis on kujundanud mõtlemist ülimõistusest. Puuduta laiendamiseks.",
+    "empty": "Verstaposte veel pole."
+  },
+  "kinds": {
+    "idea": "Idee",
+    "publication": "Publikatsioon",
+    "organization": "Organisatsioon",
+    "statement": "Avaldus",
+    "policy": "Poliitika",
+    "technical": "Tehniline"
+  },
+  "orgs": {
+    "title": "Kes sellega tegeleb",
+    "subtitle": "Juhtivad tehisintellekti laborid, ohutusuurijad ja riiklikud instituudid.",
+    "empty": "Organisatsioone ei leitud.",
+    "visitWebsite": "Külasta veebisaiti",
+    "since": "Alates {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Labor",
+    "research": "Teadus",
+    "nonprofit": "Mittetulunduslik",
+    "government": "Riiklik",
+    "other": "Muu"
+  },
+  "search": {
+    "title": "Leia mida iganes",
+    "hint": "Otsi mõisteid, prognoose, organisatsioone ja verstaposte.",
+    "noResults": "Päringule „{{q}}“ ei leitud tulemusi."
+  },
+  "sections": {
+    "concepts": "Mõisted",
+    "organizations": "Organisatsioonid",
+    "milestones": "Verstapostid"
+  },
+  "concept": {
+    "related": "Seotud",
+    "tags": "Sildid"
+  },
+  "titles": {
+    "concept": "Mõiste",
+    "forecast": "Prognoos"
+  },
+  "nav": {
+    "privacy": "Privaatsus",
+    "support": "Tugi",
+    "terms": "Tingimused"
+  },
+  "home": {
+    "title": "Millal võiks tehisintellekt meist mööduda?",
+    "lead": "Sinu teejuht ülimõistuse juurde: põhimõisted, ekspertide prognoosid, ajajoon alates 1950. aastast ja organisatsioonid, kes sellega tegelevad.",
+    "cta": "Alusta avastamist",
+    "forecastsTitle": "Mida prognoosid ütlevad",
+    "forecastsNote": "Aastaarvu andvate praeguste prognooside mediaan. Definitsioonid erinevad allikate vahel.",
+    "featuresTitle": "Kõik ühes kohas",
+    "f1": "Arutelu põhiideed lihtsalt seletatult.",
+    "f2": "Ekspertide prognoosid selle saabumise kohta, iga allikas lingitud.",
+    "f3": "Tööd, raamatud ja sündmused Turingist tänapäevani.",
+    "f4": "Juhtivad tehisintellekti laborid, ohutusuurijad ja riiklikud instituudid.",
+    "comingSoon": "Peagi saadaval:",
+    "downloadOn": "Laadi alla:"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Utforska",
+    "forecasts": "Prognoser",
+    "timeline": "Tidslinje",
+    "orgs": "Org.",
+    "search": "Sök"
+  },
+  "common": {
+    "tryAgain": "Försök igen",
+    "language": "Språk"
+  },
+  "explore": {
+    "title": "Superintelligens",
+    "subtitle": "De viktigaste idéerna bakom AI som kan vida överträffa mänsklig förmåga.",
+    "empty": "Inga begrepp hittades."
+  },
+  "categories": {
+    "all": "Alla",
+    "definition": "Definition",
+    "theory": "Teori",
+    "safety": "Säkerhet",
+    "governance": "Styrning",
+    "capability": "Förmåga"
+  },
+  "forecasts": {
+    "title": "När kan den komma?",
+    "subtitle": "Prognoser från enkäter, prognosmakare och labbchefer. Definitionerna skiljer sig, så jämför inom samma mål.",
+    "empty": "Inga prognoser hittades.",
+    "updatedLater": "Uppdaterad senare",
+    "made": "Gjord {{year}}",
+    "median": "~50 % senast {{year}}",
+    "legend": "Streckad linje = idag. Punkt = året med ~50 % sannolikhet.",
+    "medianLabel": "År med ~50 % sannolikhet",
+    "noYear": "Inget enskilt år angivet",
+    "byYear": "Sannolikhet per år",
+    "updatedNotice": "Den här prognosen uppdaterades senare. Se den nyare",
+    "source": "Källa",
+    "openSource": "Öppna källan"
+  },
+  "targets": {
+    "tai": "Transformativ AI",
+    "asi": "Superintelligens",
+    "singularity": "Singularitet",
+    "faol": "Full automatisering"
+  },
+  "types": {
+    "individual": "Person",
+    "survey": "Enkät",
+    "community": "Community",
+    "model": "Modell",
+    "scenario": "Scenario"
+  },
+  "timeline": {
+    "title": "Från Turing till idag",
+    "subtitle": "Idéer, artiklar och händelser som format tänkandet kring superintelligens. Tryck för att visa mer.",
+    "empty": "Inga milstolpar ännu."
+  },
+  "kinds": {
+    "idea": "Idé",
+    "publication": "Publikation",
+    "organization": "Organisation",
+    "statement": "Uttalande",
+    "policy": "Policy",
+    "technical": "Teknisk"
+  },
+  "orgs": {
+    "title": "Vem arbetar med det",
+    "subtitle": "Ledande AI-labb, säkerhetsforskare och statliga institut.",
+    "empty": "Inga organisationer hittades.",
+    "visitWebsite": "Besök webbplatsen",
+    "since": "Sedan {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Labb",
+    "research": "Forskning",
+    "nonprofit": "Ideell",
+    "government": "Statlig",
+    "other": "Övrigt"
+  },
+  "search": {
+    "title": "Hitta vad som helst",
+    "hint": "Sök bland begrepp, prognoser, organisationer och milstolpar.",
+    "noResults": "Inga resultat för ”{{q}}”."
+  },
+  "sections": {
+    "concepts": "Begrepp",
+    "organizations": "Organisationer",
+    "milestones": "Milstolpar"
+  },
+  "concept": {
+    "related": "Relaterat",
+    "tags": "Taggar"
+  },
+  "titles": {
+    "concept": "Begrepp",
+    "forecast": "Prognos"
+  },
+  "nav": {
+    "privacy": "Integritet",
+    "support": "Support",
+    "terms": "Villkor"
+  },
+  "home": {
+    "title": "När kan AI gå om oss?",
+    "lead": "Din guide till artificiell superintelligens: nyckelbegrepp, expertprognoser, en tidslinje från 1950 och organisationerna som arbetar med det.",
+    "cta": "Börja utforska",
+    "forecastsTitle": "Vad prognoserna säger",
+    "forecastsNote": "Medianen av aktuella prognoser som anger ett år. Definitionerna skiljer sig mellan källorna.",
+    "featuresTitle": "Allt på ett ställe",
+    "f1": "De viktigaste idéerna i debatten, förklarade enkelt.",
+    "f2": "Expertprognoser om när den kan komma, med länk till varje källa.",
+    "f3": "Artiklar, böcker och händelser från Turing till idag.",
+    "f4": "Ledande AI-labb, säkerhetsforskare och statliga institut.",
+    "comingSoon": "Kommer snart till",
+    "downloadOn": "Ladda ner på"
+  }
+}

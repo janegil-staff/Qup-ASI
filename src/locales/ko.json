@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "탐색",
+    "forecasts": "예측",
+    "timeline": "연표",
+    "orgs": "기관",
+    "search": "검색"
+  },
+  "common": {
+    "tryAgain": "다시 시도",
+    "language": "언어"
+  },
+  "explore": {
+    "title": "초지능",
+    "subtitle": "인간의 능력을 훨씬 뛰어넘을 수 있는 AI에 관한 핵심 개념.",
+    "empty": "개념을 찾을 수 없습니다."
+  },
+  "categories": {
+    "all": "전체",
+    "definition": "정의",
+    "theory": "이론",
+    "safety": "안전",
+    "governance": "거버넌스",
+    "capability": "역량"
+  },
+  "forecasts": {
+    "title": "언제 올 수 있을까?",
+    "subtitle": "설문조사, 예측가, 연구소 리더들의 예측. 정의가 서로 다르니 같은 대상 안에서 비교하세요.",
+    "empty": "예측을 찾을 수 없습니다.",
+    "updatedLater": "이후 업데이트됨",
+    "made": "{{year}}년 작성",
+    "median": "{{year}}년까지 약 50%",
+    "legend": "점선 = 오늘. 점 = 확률 약 50%인 연도.",
+    "medianLabel": "확률 약 50%인 연도",
+    "noYear": "특정 연도가 제시되지 않음",
+    "byYear": "연도별 확률",
+    "updatedNotice": "이 예측은 이후 업데이트되었습니다. 최신 예측 보기",
+    "source": "출처",
+    "openSource": "출처 열기"
+  },
+  "targets": {
+    "tai": "변혁적 AI",
+    "asi": "초지능",
+    "singularity": "특이점",
+    "faol": "완전 자동화"
+  },
+  "types": {
+    "individual": "개인",
+    "survey": "설문조사",
+    "community": "커뮤니티",
+    "model": "모델",
+    "scenario": "시나리오"
+  },
+  "timeline": {
+    "title": "튜링부터 오늘까지",
+    "subtitle": "초지능에 대한 생각을 형성한 아이디어, 논문, 사건. 탭하여 펼치기.",
+    "empty": "아직 이정표가 없습니다."
+  },
+  "kinds": {
+    "idea": "아이디어",
+    "publication": "출판물",
+    "organization": "기관",
+    "statement": "성명",
+    "policy": "정책",
+    "technical": "기술"
+  },
+  "orgs": {
+    "title": "누가 연구하고 있나",
+    "subtitle": "최첨단 AI 연구소, 안전 연구자, 정부 기관.",
+    "empty": "기관을 찾을 수 없습니다.",
+    "visitWebsite": "웹사이트 방문",
+    "since": "{{year}}년부터"
+  },
+  "orgTypes": {
+    "lab": "연구소",
+    "research": "연구",
+    "nonprofit": "비영리",
+    "government": "정부",
+    "other": "기타"
+  },
+  "search": {
+    "title": "무엇이든 찾기",
+    "hint": "개념, 예측, 기관, 이정표를 검색하세요.",
+    "noResults": "‘{{q}}’에 대한 결과가 없습니다."
+  },
+  "sections": {
+    "concepts": "개념",
+    "organizations": "기관",
+    "milestones": "이정표"
+  },
+  "concept": {
+    "related": "관련",
+    "tags": "태그"
+  },
+  "titles": {
+    "concept": "개념",
+    "forecast": "예측"
+  },
+  "nav": {
+    "privacy": "개인정보",
+    "support": "지원",
+    "terms": "약관"
+  },
+  "home": {
+    "title": "AI는 언제 우리를 넘어설까?",
+    "lead": "초지능 가이드: 핵심 개념, 전문가 예측, 1950년부터의 연표, 그리고 이를 연구하는 기관.",
+    "cta": "탐색 시작하기",
+    "forecastsTitle": "예측이 말하는 것",
+    "forecastsNote": "연도를 제시한 현재 예측들의 중앙값. 출처마다 정의가 다릅니다.",
+    "featuresTitle": "한곳에서 모두",
+    "f1": "논쟁의 핵심 개념을 쉽게 설명합니다.",
+    "f2": "언제 올지에 대한 전문가 예측과 모든 출처 링크.",
+    "f3": "튜링부터 오늘까지의 논문, 책, 사건.",
+    "f4": "최첨단 AI 연구소, 안전 연구자, 정부 기관.",
+    "comingSoon": "곧 출시",
+    "downloadOn": "다운로드"
+  }
+}

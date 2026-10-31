@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Explore",
+    "forecasts": "Forecasts",
+    "timeline": "Timeline",
+    "orgs": "Orgs",
+    "search": "Search"
+  },
+  "common": {
+    "tryAgain": "Try again",
+    "language": "Language"
+  },
+  "explore": {
+    "title": "Superintelligence",
+    "subtitle": "The key ideas behind AI that could far exceed human ability.",
+    "empty": "No concepts found."
+  },
+  "categories": {
+    "all": "All",
+    "definition": "Definition",
+    "theory": "Theory",
+    "safety": "Safety",
+    "governance": "Governance",
+    "capability": "Capability"
+  },
+  "forecasts": {
+    "title": "When could it arrive?",
+    "subtitle": "Predictions from surveys, forecasters and lab leaders. Definitions differ, so compare within a target.",
+    "empty": "No forecasts found.",
+    "updatedLater": "Updated later",
+    "made": "Made {{year}}",
+    "median": "~50% by {{year}}",
+    "legend": "Dashed line = today. Dot = year with ~50% probability.",
+    "medianLabel": "Year with ~50% probability",
+    "noYear": "No single year given",
+    "byYear": "Probability by year",
+    "updatedNotice": "This forecast was later updated. See the newer one",
+    "source": "Source",
+    "openSource": "Open source"
+  },
+  "targets": {
+    "tai": "Transformative AI",
+    "asi": "Superintelligence",
+    "singularity": "Singularity",
+    "faol": "Full automation"
+  },
+  "types": {
+    "individual": "Individual",
+    "survey": "Survey",
+    "community": "Community",
+    "model": "Model",
+    "scenario": "Scenario"
+  },
+  "timeline": {
+    "title": "From Turing to today",
+    "subtitle": "Ideas, papers and events that shaped thinking about superintelligence. Tap to expand.",
+    "empty": "No milestones yet."
+  },
+  "kinds": {
+    "idea": "Idea",
+    "publication": "Publication",
+    "organization": "Organization",
+    "statement": "Statement",
+    "policy": "Policy",
+    "technical": "Technical"
+  },
+  "orgs": {
+    "title": "Who is working on it",
+    "subtitle": "Frontier labs, safety researchers and government institutes.",
+    "empty": "No organizations found.",
+    "visitWebsite": "Visit website",
+    "since": "Since {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Lab",
+    "research": "Research",
+    "nonprofit": "Nonprofit",
+    "government": "Government",
+    "other": "Other"
+  },
+  "search": {
+    "title": "Find anything",
+    "hint": "Search concepts, forecasts, organizations and milestones.",
+    "noResults": "No results for “{{q}}”."
+  },
+  "sections": {
+    "concepts": "Concepts",
+    "organizations": "Organizations",
+    "milestones": "Milestones"
+  },
+  "concept": {
+    "related": "Related",
+    "tags": "Tags"
+  },
+  "titles": {
+    "concept": "Concept",
+    "forecast": "Forecast"
+  },
+  "nav": {
+    "privacy": "Privacy",
+    "support": "Support",
+    "terms": "Terms"
+  },
+  "home": {
+    "title": "When could AI surpass us?",
+    "lead": "Your guide to artificial superintelligence: key concepts, expert forecasts, a timeline from 1950 and the organizations working on it.",
+    "cta": "Start exploring",
+    "forecastsTitle": "What the forecasts say",
+    "forecastsNote": "Median of current forecasts that give a year. Definitions differ between sources.",
+    "featuresTitle": "Everything in one place",
+    "f1": "The key ideas behind the debate, explained in plain language.",
+    "f2": "Expert forecasts on when it could arrive, with every source linked.",
+    "f3": "Papers, books and events from Turing to today.",
+    "f4": "Frontier labs, safety researchers and government institutes.",
+    "comingSoon": "Coming soon to",
+    "downloadOn": "Download on"
+  }
+}

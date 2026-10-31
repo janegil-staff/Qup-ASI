@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Entdecken",
+    "forecasts": "Prognosen",
+    "timeline": "Zeitleiste",
+    "orgs": "Org.",
+    "search": "Suche"
+  },
+  "common": {
+    "tryAgain": "Erneut versuchen",
+    "language": "Sprache"
+  },
+  "explore": {
+    "title": "Superintelligenz",
+    "subtitle": "Die zentralen Ideen hinter KI, die menschliche Fähigkeiten weit übertreffen könnte.",
+    "empty": "Keine Begriffe gefunden."
+  },
+  "categories": {
+    "all": "Alle",
+    "definition": "Definition",
+    "theory": "Theorie",
+    "safety": "Sicherheit",
+    "governance": "Governance",
+    "capability": "Fähigkeit"
+  },
+  "forecasts": {
+    "title": "Wann könnte sie kommen?",
+    "subtitle": "Prognosen aus Umfragen, von Prognostikern und Laborchefs. Die Definitionen unterscheiden sich, also innerhalb eines Ziels vergleichen.",
+    "empty": "Keine Prognosen gefunden.",
+    "updatedLater": "Später aktualisiert",
+    "made": "Erstellt {{year}}",
+    "median": "~50 % bis {{year}}",
+    "legend": "Gestrichelte Linie = heute. Punkt = Jahr mit ~50 % Wahrscheinlichkeit.",
+    "medianLabel": "Jahr mit ~50 % Wahrscheinlichkeit",
+    "noYear": "Kein einzelnes Jahr angegeben",
+    "byYear": "Wahrscheinlichkeit nach Jahr",
+    "updatedNotice": "Diese Prognose wurde später aktualisiert. Zur neueren Prognose",
+    "source": "Quelle",
+    "openSource": "Quelle öffnen"
+  },
+  "targets": {
+    "tai": "Transformative KI",
+    "asi": "Superintelligenz",
+    "singularity": "Singularität",
+    "faol": "Vollautomatisierung"
+  },
+  "types": {
+    "individual": "Person",
+    "survey": "Umfrage",
+    "community": "Community",
+    "model": "Modell",
+    "scenario": "Szenario"
+  },
+  "timeline": {
+    "title": "Von Turing bis heute",
+    "subtitle": "Ideen, Arbeiten und Ereignisse, die das Denken über Superintelligenz geprägt haben. Zum Aufklappen tippen.",
+    "empty": "Noch keine Meilensteine."
+  },
+  "kinds": {
+    "idea": "Idee",
+    "publication": "Publikation",
+    "organization": "Organisation",
+    "statement": "Erklärung",
+    "policy": "Politik",
+    "technical": "Technik"
+  },
+  "orgs": {
+    "title": "Wer daran arbeitet",
+    "subtitle": "Führende KI-Labore, Sicherheitsforscher und staatliche Institute.",
+    "empty": "Keine Organisationen gefunden.",
+    "visitWebsite": "Website besuchen",
+    "since": "Seit {{year}}"
+  },
+  "orgTypes": {
+    "lab": "Labor",
+    "research": "Forschung",
+    "nonprofit": "Gemeinnützig",
+    "government": "Staatlich",
+    "other": "Sonstiges"
+  },
+  "search": {
+    "title": "Alles finden",
+    "hint": "Suche in Begriffen, Prognosen, Organisationen und Meilensteinen.",
+    "noResults": "Keine Ergebnisse für „{{q}}“."
+  },
+  "sections": {
+    "concepts": "Begriffe",
+    "organizations": "Organisationen",
+    "milestones": "Meilensteine"
+  },
+  "concept": {
+    "related": "Verwandt",
+    "tags": "Tags"
+  },
+  "titles": {
+    "concept": "Begriff",
+    "forecast": "Prognose"
+  },
+  "nav": {
+    "privacy": "Datenschutz",
+    "support": "Support",
+    "terms": "Nutzungsbedingungen"
+  },
+  "home": {
+    "title": "Wann könnte KI uns überholen?",
+    "lead": "Dein Leitfaden zur Superintelligenz: zentrale Begriffe, Expertenprognosen, eine Zeitleiste ab 1950 und die Organisationen, die daran arbeiten.",
+    "cta": "Jetzt entdecken",
+    "forecastsTitle": "Was die Prognosen sagen",
+    "forecastsNote": "Median der aktuellen Prognosen mit Jahresangabe. Die Definitionen unterscheiden sich je nach Quelle.",
+    "featuresTitle": "Alles an einem Ort",
+    "f1": "Die zentralen Ideen der Debatte, verständlich erklärt.",
+    "f2": "Expertenprognosen, wann sie kommen könnte, mit verlinkten Quellen.",
+    "f3": "Arbeiten, Bücher und Ereignisse von Turing bis heute.",
+    "f4": "Führende KI-Labore, Sicherheitsforscher und staatliche Institute.",
+    "comingSoon": "Bald verfügbar im",
+    "downloadOn": "Laden im"
+  }
+}

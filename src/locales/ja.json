@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "探索",
+    "forecasts": "予測",
+    "timeline": "年表",
+    "orgs": "組織",
+    "search": "検索"
+  },
+  "common": {
+    "tryAgain": "再試行",
+    "language": "言語"
+  },
+  "explore": {
+    "title": "超知能",
+    "subtitle": "人間の能力をはるかに超える可能性のあるAIの主要な考え方。",
+    "empty": "概念が見つかりません。"
+  },
+  "categories": {
+    "all": "すべて",
+    "definition": "定義",
+    "theory": "理論",
+    "safety": "安全性",
+    "governance": "ガバナンス",
+    "capability": "能力"
+  },
+  "forecasts": {
+    "title": "いつ実現する？",
+    "subtitle": "調査、予測者、研究所のリーダーによる予測。定義が異なるため、同じ対象内で比較してください。",
+    "empty": "予測が見つかりません。",
+    "updatedLater": "後に更新",
+    "made": "{{year}}年に発表",
+    "median": "{{year}}年までに約50%",
+    "legend": "破線 = 現在。点 = 確率が約50%の年。",
+    "medianLabel": "確率が約50%の年",
+    "noYear": "特定の年は示されていません",
+    "byYear": "年ごとの確率",
+    "updatedNotice": "この予測は後に更新されました。新しい予測を見る",
+    "source": "出典",
+    "openSource": "出典を開く"
+  },
+  "targets": {
+    "tai": "変革的AI",
+    "asi": "超知能",
+    "singularity": "シンギュラリティ",
+    "faol": "完全自動化"
+  },
+  "types": {
+    "individual": "個人",
+    "survey": "調査",
+    "community": "コミュニティ",
+    "model": "モデル",
+    "scenario": "シナリオ"
+  },
+  "timeline": {
+    "title": "チューリングから現在まで",
+    "subtitle": "超知能についての考え方を形作ったアイデア、論文、出来事。タップで展開。",
+    "empty": "まだマイルストーンはありません。"
+  },
+  "kinds": {
+    "idea": "アイデア",
+    "publication": "出版物",
+    "organization": "組織",
+    "statement": "声明",
+    "policy": "政策",
+    "technical": "技術"
+  },
+  "orgs": {
+    "title": "誰が取り組んでいるか",
+    "subtitle": "最先端のAI研究所、安全性研究者、政府機関。",
+    "empty": "組織が見つかりません。",
+    "visitWebsite": "ウェブサイトを開く",
+    "since": "{{year}}年から"
+  },
+  "orgTypes": {
+    "lab": "研究所",
+    "research": "研究",
+    "nonprofit": "非営利",
+    "government": "政府",
+    "other": "その他"
+  },
+  "search": {
+    "title": "何でも検索",
+    "hint": "概念、予測、組織、マイルストーンを検索。",
+    "noResults": "「{{q}}」の検索結果はありません。"
+  },
+  "sections": {
+    "concepts": "概念",
+    "organizations": "組織",
+    "milestones": "マイルストーン"
+  },
+  "concept": {
+    "related": "関連",
+    "tags": "タグ"
+  },
+  "titles": {
+    "concept": "概念",
+    "forecast": "予測"
+  },
+  "nav": {
+    "privacy": "プライバシー",
+    "support": "サポート",
+    "terms": "利用規約"
+  },
+  "home": {
+    "title": "AIはいつ人間を超える？",
+    "lead": "超知能ガイド：主要な概念、専門家の予測、1950年からの年表、そして取り組む組織。",
+    "cta": "探索を始める",
+    "forecastsTitle": "予測の傾向",
+    "forecastsNote": "年を示している現在の予測の中央値。定義は情報源によって異なります。",
+    "featuresTitle": "すべてを一か所に",
+    "f1": "議論の主要な考え方をわかりやすく解説。",
+    "f2": "実現時期に関する専門家の予測。すべての出典にリンク付き。",
+    "f3": "チューリングから現在までの論文、書籍、出来事。",
+    "f4": "最先端のAI研究所、安全性研究者、政府機関。",
+    "comingSoon": "近日公開",
+    "downloadOn": "ダウンロード"
+  }
+}

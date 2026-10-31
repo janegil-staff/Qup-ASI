@@ -1,0 +1,118 @@
+{
+  "tabs": {
+    "explore": "Odkrywaj",
+    "forecasts": "Prognozy",
+    "timeline": "Oś czasu",
+    "orgs": "Org.",
+    "search": "Szukaj"
+  },
+  "common": {
+    "tryAgain": "Spróbuj ponownie",
+    "language": "Język"
+  },
+  "explore": {
+    "title": "Superinteligencja",
+    "subtitle": "Kluczowe idee dotyczące AI, która mogłaby znacznie przewyższyć ludzkie możliwości.",
+    "empty": "Nie znaleziono pojęć."
+  },
+  "categories": {
+    "all": "Wszystko",
+    "definition": "Definicja",
+    "theory": "Teoria",
+    "safety": "Bezpieczeństwo",
+    "governance": "Zarządzanie",
+    "capability": "Możliwości"
+  },
+  "forecasts": {
+    "title": "Kiedy może nadejść?",
+    "subtitle": "Prognozy z ankiet, od prognostyków i liderów laboratoriów. Definicje się różnią, więc porównuj w obrębie jednego celu.",
+    "empty": "Nie znaleziono prognoz.",
+    "updatedLater": "Później zaktualizowana",
+    "made": "Z {{year}} r.",
+    "median": "~50% do {{year}} r.",
+    "legend": "Linia przerywana = dziś. Kropka = rok z ~50% prawdopodobieństwem.",
+    "medianLabel": "Rok z ~50% prawdopodobieństwem",
+    "noYear": "Nie podano konkretnego roku",
+    "byYear": "Prawdopodobieństwo wg roku",
+    "updatedNotice": "Ta prognoza została później zaktualizowana. Zobacz nowszą",
+    "source": "Źródło",
+    "openSource": "Otwórz źródło"
+  },
+  "targets": {
+    "tai": "Transformacyjna AI",
+    "asi": "Superinteligencja",
+    "singularity": "Osobliwość",
+    "faol": "Pełna automatyzacja"
+  },
+  "types": {
+    "individual": "Osoba",
+    "survey": "Ankieta",
+    "community": "Społeczność",
+    "model": "Model",
+    "scenario": "Scenariusz"
+  },
+  "timeline": {
+    "title": "Od Turinga do dziś",
+    "subtitle": "Idee, publikacje i wydarzenia, które ukształtowały myślenie o superinteligencji. Dotknij, aby rozwinąć.",
+    "empty": "Brak kamieni milowych."
+  },
+  "kinds": {
+    "idea": "Idea",
+    "publication": "Publikacja",
+    "organization": "Organizacja",
+    "statement": "Oświadczenie",
+    "policy": "Polityka",
+    "technical": "Techniczne"
+  },
+  "orgs": {
+    "title": "Kto nad tym pracuje",
+    "subtitle": "Czołowe laboratoria AI, badacze bezpieczeństwa i instytuty rządowe.",
+    "empty": "Nie znaleziono organizacji.",
+    "visitWebsite": "Odwiedź stronę",
+    "since": "Od {{year}} r."
+  },
+  "orgTypes": {
+    "lab": "Laboratorium",
+    "research": "Badania",
+    "nonprofit": "Non-profit",
+    "government": "Rząd",
+    "other": "Inne"
+  },
+  "search": {
+    "title": "Znajdź wszystko",
+    "hint": "Szukaj pojęć, prognoz, organizacji i kamieni milowych.",
+    "noResults": "Brak wyników dla „{{q}}”."
+  },
+  "sections": {
+    "concepts": "Pojęcia",
+    "organizations": "Organizacje",
+    "milestones": "Kamienie milowe"
+  },
+  "concept": {
+    "related": "Powiązane",
+    "tags": "Tagi"
+  },
+  "titles": {
+    "concept": "Pojęcie",
+    "forecast": "Prognoza"
+  },
+  "nav": {
+    "privacy": "Prywatność",
+    "support": "Pomoc",
+    "terms": "Warunki"
+  },
+  "home": {
+    "title": "Kiedy AI może nas prześcignąć?",
+    "lead": "Twój przewodnik po superinteligencji: kluczowe pojęcia, prognozy ekspertów, oś czasu od 1950 r. i organizacje, które nad tym pracują.",
+    "cta": "Zacznij odkrywać",
+    "forecastsTitle": "Co mówią prognozy",
+    "forecastsNote": "Mediana aktualnych prognoz podających rok. Definicje różnią się między źródłami.",
+    "featuresTitle": "Wszystko w jednym miejscu",
+    "f1": "Kluczowe idee debaty wyjaśnione prostym językiem.",
+    "f2": "Prognozy ekspertów, kiedy może nadejść, z linkami do źródeł.",
+    "f3": "Publikacje, książki i wydarzenia od Turinga do dziś.",
+    "f4": "Czołowe laboratoria AI, badacze bezpieczeństwa i instytuty rządowe.",
+    "comingSoon": "Wkrótce w",
+    "downloadOn": "Pobierz z"
+  }
+}

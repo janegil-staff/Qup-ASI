@@ -1,7 +1,7 @@
 // src/config/site.js
 // Edit these values in one place. Store links stay "coming soon" until they are set.
 export const site = {
-  name: 'ASI',
+  name: 'Qup ASI',
   tagline: 'AI forecasts, ideas & history',
   description:
     'Your guide to artificial superintelligence: key concepts, expert forecasts, a timeline from 1950 and the organizations working on it.',

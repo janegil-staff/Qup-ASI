@@ -1,0 +1,119 @@
+/* src/app/page.module.css */
+.hero {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  align-items: center;
+  gap: 48px;
+  padding-top: 72px;
+  padding-bottom: 40px;
+}
+
+.title {
+  font-size: 56px;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  margin: 12px 0 16px;
+}
+
+.title span {
+  background: linear-gradient(90deg, #8b6cff, #22d3ee);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.lead {
+  font-size: 19px;
+  color: var(--muted);
+  margin: 0 0 28px;
+  max-width: 540px;
+}
+
+.logoWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  filter: drop-shadow(0 0 60px rgba(139, 108, 255, 0.35));
+}
+
+.section {
+  padding-top: 64px;
+}
+
+.sectionTitle {
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  margin: 8px 0 24px;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.feature h3 {
+  margin: 0 0 6px;
+  font-size: 19px;
+}
+
+.feature p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.forecasts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.forecast {
+  text-align: left;
+}
+
+.forecastYear {
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  margin: 8px 0;
+  color: var(--accent2);
+}
+
+.forecast p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.note {
+  color: var(--faint);
+  font-size: 13px;
+  margin-top: 12px;
+}
+
+@media (max-width: 860px) {
+  .hero {
+    grid-template-columns: 1fr;
+    padding-top: 40px;
+  }
+  .logoWrap {
+    order: -1;
+  }
+  .logo {
+    max-width: 220px;
+  }
+  .title {
+    font-size: 40px;
+  }
+  .features,
+  .forecasts {
+    grid-template-columns: 1fr;
+  }
+}
